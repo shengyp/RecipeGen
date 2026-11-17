@@ -1,15 +1,7 @@
 # Awesome-Recipe-Generation-Models [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## 2026
-
-1. **A Unified Multi-Task Architecture for Suicide Risk Detection via Attention-Based Decision and Cause Sentence Extraction.** `IEEE Access`
-
-    *Kyungbae Park, Won Sakong.* [[PDF](https://doi.org/10.1109/ACCESS.2026.3669351)], 14: 39154-39170, 2026.
-
-2. **Data-driven suicide risk prediction in patients suffering from chronic diseases using machine learning.** `Health Informatics J.`
-
-    *Nujud Aloshban.* [[PDF](https://doi.org/10.1177/14604582251413167)], 32(1), 2026.
-   
+  
 1. **Closing the Visual-Culinary Gap: Towards Hallucination-Free Recipe Generation with Entropy-Aware Logic Constraints.** `ACM MM`
 
     *H. Song, J. Zhu, T. Liu, et al.* [[PDF](https://doi.org/10.1145/3767308.3836427)], 9001-9009, 2026.
@@ -29,7 +21,9 @@
 5. **Deep Transformer-Based Generative Framework for Automatic Image-to-Recipe Generation.** `LNNS`
 
     *T. Singh, S. K. Jha, K. Rajput, et al.* [[PDF](https://doi.org/10.1007/978-3-032-30008-9_12)], 158-167, 2026.
+   
 ## 2025
+
 1. **RecipeGen: A Step-Aligned Multimodal Benchmark for Real-World Recipe Generation.** `ACM MM`
 
     *R. Zhang, J. Gao, B. Wen, et al.* [[PDF](https://doi.org/10.1145/3746027.3758203)], 12659-12665, 2025.
