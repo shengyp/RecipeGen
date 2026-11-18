@@ -2,9 +2,9 @@
 
 ## 2026
   
-1. <span style="color:red">**Can LLMs Cook Jamaican Couscous? A Study of Cultural Novelty in Recipe Generation.** `FAccT`</span>
+1. $\color{red}{\text{Can LLMs Cook Jamaican Couscous? A Study of Cultural Novelty in Recipe Generation.}}$ $\color{red}{\text{FAccT}}$
 
-    <span style="color:red">*Florian Carichon, Romain Rampa, Golnoosh Farnadi* [[PDF](https://arxiv.org/pdf/2602.10964)], 2705-2726, 2026.</span>
+    $\color{red}{\text{Florian Carichon, Romain Rampa, Golnoosh Farnadi}}$ [[PDF](https://arxiv.org/pdf/2602.10964)]$\color{red}{\text{, 2705-2726, 2026.}}$
 
 2. <span style="color:red">**Can LLMs Cook Jamaican Couscous? A Study of Cultural Novelty in Recipe Generation.** `CoRR`</span>
 
