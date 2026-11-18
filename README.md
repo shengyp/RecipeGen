@@ -2,42 +2,65 @@
 
 ## 2026
   
-1. **Closing the Visual-Culinary Gap: Towards Hallucination-Free Recipe Generation with Entropy-Aware Logic Constraints.** `ACM MM`
+1. **Can LLMs Cook Jamaican Couscous? A Study of Cultural Novelty in Recipe Generation.** `FAccT`
 
-    *H. Song, J. Zhu, T. Liu, et al.* [[PDF](https://doi.org/10.1145/3767308.3836427)], 9001-9009, 2026.
+    *Florian Carichon, Romain Rampa, Golnoosh Farnadi* [[PDF](https://arxiv.org/pdf/2602.10964)], 2705-2726, 2026.
 
-2. **Recipe Generation from Unsegmented Cooking Videos.** `ACM TOMM`
+2. **Can LLMs Cook Jamaican Couscous? A Study of Cultural Novelty in Recipe Generation.** `CoRR abs/2602.10964`
 
-    *T. Nishimura, A. Hashimoto, Y. Ushiku, et al.* [[PDF](https://doi.org/10.1145/3649137)], 1-25, 2026.
+    *Florian Carichon, Romain Rampa, Golnoosh Farnadi* [[PDF](https://arxiv.org/pdf/2602.10964)], 2026.
 
-3. **RecipeNet: A Hierarchical Transformer for Recipe Data.** `ACM CIKM`
+3. **Causal-rCM: A Unified Teacher-Forcing and Self-Forcing Open Recipe for Autoregressive Diffusion Distillation in Streaming Video Generation and Interactive World Models.** `CoRR abs/2606.25473`
 
-    *P.-Y. Huang, S. Chhabra, P. S. Gouripeddi, et al.* [[PDF](https://doi.org/10.1145/3799682.3839874)], 7231-7235, 2026.
+    *Kaiwen Zheng, Guande He, Min Zhao, Jintao Zhang, Huayu Chen, Jianfei Chen, Chen-Hsuan Lin, Ming-Yu Liu, Jun Zhu, Qianli Ma* [[PDF](https://arxiv.org/pdf/2606.25473)], 2026.
 
-4. **Chinese Recipe Flow Graph.** `LNCS`
+4. **Diffusion-Proof: Recipe for Formal Theorem Proving Beyond Auto-Regressive Generation.** `CoRR abs/2606.19315`
 
-    *Q. Wu, J. Yuan, J. Zhou, et al.* [[PDF](https://doi.org/10.1007/978-981-92-3520-9_3)], 29-42, 2026.
+    *Ruida Wang, Rui Pan, Pengcheng Wang, Shizhe Diao, Tong Zhang* [[PDF](https://arxiv.org/pdf/2606.19315)], 2026.
 
-5. **FlavorFrame: Food Image to Recipe Generator Using Deep Learning.** `LNNS`
+5. **EchoCSI: A Systematic Cross-Environment Benchmark and a Frozen-Prior Vector-Quantized Recipe for WiFi CSI-to-Image Generation.** `IEEE Access`
 
-    *A. Sarkar, S. Das, P. Ghosh, et al.* [[PDF](https://doi.org/10.1007/978-3-032-21901-5_5)], 65-76, 2026.
+    *Suan Lee, Dongmin Jin, Namhyeon Kim* [[PDF](https://doi.org/10.1109/ACCESS.2026.3731910)], 142059-142077, 2026.
 
-6. **Can LLMs Cook Jamaican Couscous? A Study of Cultural Novelty in Recipe Generation.** `ACM FAccT`
+6. **Enhancing Action and Ingredient Modeling for Semantically Grounded Recipe Generation.** `CoRR abs/2602.15862`
 
-    *F. Carichon, R. Rampa, G. Farnadi.* [[PDF](https://doi.org/10.1145/3805689.3806508)], 2705-2726, 2026.
+    *Guoshan Liu, Bin Zhu, Yian Li, Jingjing Chen, Chong-Wah Ngo, Yu-Gang Jiang* [[PDF](https://arxiv.org/pdf/2602.15862)], 2026.
 
-7. **A Multimodal Deep Learning Framework for Nutritional Estimation and Health-Oriented Recipe Analysis.** `Multimedia Systems`
+7. **Losses that Cook: Topological Optimal Transport for Structured Recipe Generation.** `ACL`
 
-    *A. Morales-Garzón, A. Quiñones-Muñoz, K. Gutiérrez-Batista, et al.* [[PDF](https://doi.org/10.1007/s00530-025-02151-3)], 2026.
+    *Mattia Ottoborgo, Daniele Rege Cambrin, Paolo Garza* [[PDF](https://arxiv.org/pdf/2601.02531)], 26489-26500, 2026.
 
-8. **Improving LLMs for Recipe Generation via Reinforcement Learning Fine-Tuning.** `LNNS`
+8. **Losses that Cook: Topological Optimal Transport for Structured Recipe Generation.** `CoRR abs/2601.02531`
 
-    *P. Shaw, A. Wasala, R. R. Punjj.* [[PDF](https://doi.org/10.1007/978-3-032-19179-3_31)], 405-417, 2026.
+    *Mattia Ottoborgo, Daniele Rege Cambrin, Paolo Garza* [[PDF](https://arxiv.org/pdf/2601.02531)], 2026.
 
-9. **AIGVE-Tool: AI-Generated Video Evaluation Toolkit with Multifaceted Benchmark.** `VISAPP`
+9. **Profile-Aware Trustworthy Recipe Generation with Planner-Critic Agentic Remediation.** `CoRR abs/2610.02969`
 
-    *X. Xiang, X. Liu, Z. Li, et al.* [[PDF](https://doi.org/10.5220/0014252500004084)], 346-357, 2026.
-   
+    *Shanhong Liu, Pai Chet Ng, Konstantinos N. Plataniotis* [[PDF](https://arxiv.org/pdf/2610.02969)], 2026.
+
+10. **ReciFine: Finely Annotated Recipe Dataset for Controllable Recipe Generation.** `EACL`
+
+    *Nuhu Ibrahim, Rishi Ravikumar, Robert Stevens, Riza Batista-Navarro* [[PDF](https://doi.org/10.18653/v1/2026.findings-eacl.210)], 4058-4074, 2026.
+
+11. **Recipe Generation from Unsegmented Cooking Videos.** `ACM Trans. Multim. Comput. Commun. Appl.`
+
+    *Taichi Nishimura, Atsushi Hashimoto, Yoshitaka Ushiku, Hirotaka Kameko, Shinsuke Mori* [[PDF](https://arxiv.org/pdf/2209.10134)], 268:1-268:25, 2026.
+
+12. **Recipes for Creativity: Iterative Generation and Evaluation in Large Language Models.** `ICCC`
+
+    *Rens Anderson, Tessa Verhoef, Amirhossein Zohrehvand* [[PDF](https://computationalcreativity.net/iccc26/papers/ICCC26_paper_160.pdf)], 306-312, 2026.
+
+13. **Recipes for Creativity: Iterative Generation and Evaluation in Large Language Models.** `CoRR abs/2608.07243`
+
+    *Rens Anderson, Tessa Verhoef, Amirhossein Zohrehvand* [[PDF](https://arxiv.org/pdf/2608.07243)], 2026.
+
+14. **The Relationship Between Perceived Diversity and Entropy of AI-Generated Content: A Case Study in Recipe Generation.** `Int. J. Hum. Comput. Interact.`
+
+    *Xuanzhe Sun, Francisco Ibarrola, Samuel Gillespie, Kazjon Grace*, 17241-17259, 2026.
+
+15. **WeAgent-MMGenEdit: A Full-Stack Recipe for Multimodal Agentic Image Generation and Editing.** `CoRR abs/2609.05171`
+
+    *Hui Zhang, Zongkai Liu, Liqiang Niu, Juntao Liu, Han Li, Zhen Cao, Wenchao Chen, Chengduo Zhao, Fandong Meng* [[PDF](https://arxiv.org/pdf/2609.05171)], 2026.
 ## 2025
 
 1. **RecipeGen: A Step-Aligned Multimodal Benchmark for Real-World Recipe Generation.** `ACM MM`
