@@ -4,11 +4,11 @@
   
 1. $\color{red}{\text{Can LLMs Cook Jamaican Couscous? A Study of Cultural Novelty in Recipe Generation.}}$ $\color{red}{\text{FAccT}}$
 
-    $\color{red}{\text{Florian Carichon, Romain Rampa, Golnoosh Farnadi}}$ [[PDF](https://arxiv.org/pdf/2602.10964)]$\color{red}{\text{, 2705-2726, 2026.}}$
+    $\color{red}{\text{Florian Carichon, Romain Rampa, Golnoosh Farnadi}}$ [[PDF](https://arxiv.org/pdf/2602.10964)] $\color{red}{\text{, 2705-2726, 2026.}}$
 
-2. <span style="color:red">**Can LLMs Cook Jamaican Couscous? A Study of Cultural Novelty in Recipe Generation.** `CoRR`</span>
+2. $\color{red}{\text{Can LLMs Cook Jamaican Couscous? A Study of Cultural Novelty in Recipe Generation.}}$ $\color{red}{\text{CoRR}}$
 
-    <span style="color:red">*Florian Carichon, Romain Rampa, Golnoosh Farnadi* [[PDF](https://arxiv.org/pdf/2602.10964)], abs/2602.10964, 2026.</span>
+    $\color{red}{\text{Florian Carichon, Romain Rampa, Golnoosh Farnadi}}$ [[PDF](https://arxiv.org/pdf/2602.10964)] $\color{red}{\text{, abs/2602.10964, 2026.}}$
 
 3. **Causal-rCM: A Unified Teacher-Forcing and Self-Forcing Open Recipe for Autoregressive Diffusion Distillation in Streaming Video Generation and Interactive World Models.** `CoRR`
 
@@ -26,13 +26,13 @@
 
     *Guoshan Liu, Bin Zhu, Yian Li, Jingjing Chen, Chong-Wah Ngo, Yu-Gang Jiang* [[PDF](https://arxiv.org/pdf/2602.15862)], abs/2602.15862, 2026.
 
-7. <span style="color:red">**Losses that Cook: Topological Optimal Transport for Structured Recipe Generation.** `ACL`</span>
+7. $\color{red}{\text{Losses that Cook: Topological Optimal Transport for Structured Recipe Generation.}}$ $\color{red}{\text{ACL}}$
 
-    <span style="color:red">*Mattia Ottoborgo, Daniele Rege Cambrin, Paolo Garza* [[PDF](https://arxiv.org/pdf/2601.02531)], 26489-26500, 2026.</span>
+    $\color{red}{\text{Mattia Ottoborgo, Daniele Rege Cambrin, Paolo Garza}}$ [[PDF](https://arxiv.org/pdf/2601.02531)] $\color{red}{\text{, 26489-26500, 2026.}}$
 
-8. <span style="color:red">**Losses that Cook: Topological Optimal Transport for Structured Recipe Generation.** `CoRR`</span>
+8. $\color{red}{\text{Losses that Cook: Topological Optimal Transport for Structured Recipe Generation.}}$ $\color{red}{\text{CoRR}}$
 
-    <span style="color:red">*Mattia Ottoborgo, Daniele Rege Cambrin, Paolo Garza* [[PDF](https://arxiv.org/pdf/2601.02531)], abs/2601.02531, 2026.</span>
+    $\color{red}{\text{Mattia Ottoborgo, Daniele Rege Cambrin, Paolo Garza}}$ [[PDF](https://arxiv.org/pdf/2601.02531)] $\color{red}{\text{, abs/2601.02531, 2026.}}$
 
 9. **Profile-Aware Trustworthy Recipe Generation with Planner-Critic Agentic Remediation.** `CoRR`
 
@@ -42,17 +42,17 @@
 
     *Nuhu Ibrahim, Rishi Ravikumar, Robert Stevens, Riza Batista-Navarro* [[PDF](https://doi.org/10.18653/v1/2026.findings-eacl.210)], 4058-4074, 2026.
 
-11. <span style="color:red">**Recipe Generation from Unsegmented Cooking Videos.** `ACM Trans. Multim. Comput. Commun. Appl.`</span>
+11. $\color{red}{\text{Recipe Generation from Unsegmented Cooking Videos.}}$ $\color{red}{\text{ACM Trans. Multim. Comput. Commun. Appl.}}$
 
-    <span style="color:red">*Taichi Nishimura, Atsushi Hashimoto, Yoshitaka Ushiku, Hirotaka Kameko, Shinsuke Mori* [[PDF](https://arxiv.org/pdf/2209.10134)], 22, 268:1-268:25, 2026.</span>
+    $\color{red}{\text{Taichi Nishimura, Atsushi Hashimoto, Yoshitaka Ushiku, Hirotaka Kameko, Shinsuke Mori}}$ [[PDF](https://arxiv.org/pdf/2209.10134)] $\color{red}{\text{, 22, 268:1-268:25, 2026.}}$
 
-12. <span style="color:red">**Recipes for Creativity: Iterative Generation and Evaluation in Large Language Models.** `ICCC`</span>
+12. $\color{red}{\text{Recipes for Creativity: Iterative Generation and Evaluation in Large Language Models.}}$ $\color{red}{\text{ICCC}}$
 
-    <span style="color:red">*Rens Anderson, Tessa Verhoef, Amirhossein Zohrehvand* [[PDF](https://computationalcreativity.net/iccc26/papers/ICCC26_paper_160.pdf)], 306-312, 2026.</span>
+    $\color{red}{\text{Rens Anderson, Tessa Verhoef, Amirhossein Zohrehvand}}$ [[PDF](https://computationalcreativity.net/iccc26/papers/ICCC26_paper_160.pdf)] $\color{red}{\text{, 306-312, 2026.}}$
 
-13. <span style="color:red">**Recipes for Creativity: Iterative Generation and Evaluation in Large Language Models.** `CoRR`</span>
+13. $\color{red}{\text{Recipes for Creativity: Iterative Generation and Evaluation in Large Language Models.}}$ $\color{red}{\text{CoRR}}$
 
-    <span style="color:red">*Rens Anderson, Tessa Verhoef, Amirhossein Zohrehvand* [[PDF](https://arxiv.org/pdf/2608.07243)], abs/2608.07243, 2026.</span>
+    $\color{red}{\text{Rens Anderson, Tessa Verhoef, Amirhossein Zohrehvand}}$ [[PDF](https://arxiv.org/pdf/2608.07243)] $\color{red}{\text{, abs/2608.07243, 2026.}}$
 
 14. **The Relationship Between Perceived Diversity and Entropy of AI-Generated Content: A Case Study in Recipe Generation.** `Int. J. Hum. Comput. Interact.`
 
@@ -61,20 +61,21 @@
 15. **WeAgent-MMGenEdit: A Full-Stack Recipe for Multimodal Agentic Image Generation and Editing.** `CoRR`
 
     *Hui Zhang, Zongkai Liu, Liqiang Niu, Juntao Liu, Han Li, Zhen Cao, Wenchao Chen, Chengduo Zhao, Fandong Meng* [[PDF](https://arxiv.org/pdf/2609.05171)], abs/2609.05171, 2026.
+
     
 ## 2025
 
-Controlled Recipe Generation: Adapting Food Recipes to Meet Dietary Restriction.** `PLN-DS@SEPLN`
+1. **Controlled Recipe Generation: Adapting Food Recipes to Meet Dietary Restriction.** `PLN-DS@SEPLN`
 
     *Kemalcan Bora* [[PDF](https://ceur-ws.org/Vol-4100/paper18.pdf)], 146-154, 2025.
 
-2. **CookAnything: A Framework for Flexible and Consistent Multi-Step Recipe Image Generation.** `ACM Multimedia`
+2. $\color{red}{\text{CookAnything: A Framework for Flexible and Consistent Multi-Step Recipe Image Generation.}}$ $\color{red}{\text{ACM Multimedia}}$
 
-    *Ruoxuan Zhang, Bin Wen, Hongxia Xie, Yi Yao, Songhan Zuo, Jian-Yu Jiang-Lin, Hong-Han Shuai, Wen-Huang Cheng* [[PDF](https://arxiv.org/pdf/2512.03540)], 7854-7863, 2025.
+    $\color{red}{\text{Ruoxuan Zhang, Bin Wen, Hongxia Xie, Yi Yao, Songhan Zuo, Jian-Yu Jiang-Lin, Hong-Han Shuai, Wen-Huang Cheng}}$ [[PDF](https://arxiv.org/pdf/2512.03540)] $\color{red}{\text{, 7854-7863, 2025.}}$
 
-3. **CookAnything: A Framework for Flexible and Consistent Multi-Step Recipe Image Generation.** `CoRR`
+3. $\color{red}{\text{CookAnything: A Framework for Flexible and Consistent Multi-Step Recipe Image Generation.}}$ $\color{red}{\text{CoRR}}$
 
-    *Ruoxuan Zhang, Bin Wen, Hongxia Xie, Yi Yao, Songhan Zuo, Jian-Yu Jiang-Lin, Hong-Han Shuai, Wen-Huang Cheng* [[PDF](https://arxiv.org/pdf/2512.03540)], abs/2512.03540, 2025.
+    $\color{red}{\text{Ruoxuan Zhang, Bin Wen, Hongxia Xie, Yi Yao, Songhan Zuo, Jian-Yu Jiang-Lin, Hong-Han Shuai, Wen-Huang Cheng}}$ [[PDF](https://arxiv.org/pdf/2512.03540)] $\color{red}{\text{, abs/2512.03540, 2025.}}$
 
 4. **CookGALIP: Recipe Controllable Generative Adversarial CLIPs With Sequential Ingredient Prompts for Food Image Generation.** `IEEE Trans. Multim.`
 
@@ -96,21 +97,21 @@ Controlled Recipe Generation: Adapting Food Recipes to Meet Dietary Restriction.
 
     *Anneketh Vij, Changhao Liu, Rahul Anil Nair, Theodore Eugene Ho, Edward Shi, Ayan Kumar Bhowmick* [[PDF](https://arxiv.org/pdf/2502.02028)], abs/2502.02028, 2025.
 
-9. **FoodMLLM-JP: Leveraging Multimodal Large Language Models for Japanese Recipe Generation.** `MMM`
+9. $\color{red}{\text{FoodMLLM-JP: Leveraging Multimodal Large Language Models for Japanese Recipe Generation.}}$ $\color{red}{\text{MMM}}$
 
-    *Yuki Imajuku, Yoko Yamakata, Kiyoharu Aizawa* [[PDF](https://arxiv.org/pdf/2409.18459)], 401-414, 2025.
+    $\color{red}{\text{Yuki Imajuku, Yoko Yamakata, Kiyoharu Aizawa}}$ [[PDF](https://arxiv.org/pdf/2409.18459)] $\color{red}{\text{, 401-414, 2025.}}$
 
 10. **From Zero to Sixty at the Speed of RAG: Improving YAML Recipe Generation via Retrieval.** `LLM4Code@ICSE`
 
     *Farima Farmahinifarahani, Petr Babkin, Salwa Alamir, Xiaomo Liu*, 49-56, 2025.
 
-11. **MAMM-Refine: A Recipe for Improving Faithfulness in Generation with Multi-Agent Collaboration.** `NAACL`
+11. $\color{red}{\text{MAMM-Refine: A Recipe for Improving Faithfulness in Generation with Multi-Agent Collaboration.}}$ $\color{red}{\text{NAACL}}$
 
-    *David Wan, Justin Chih-Yao Chen, Elias Stengel-Eskin, Mohit Bansal* [[PDF](https://arxiv.org/pdf/2503.15272)], 9882-9901, 2025.
+    $\color{red}{\text{David Wan, Justin Chih-Yao Chen, Elias Stengel-Eskin, Mohit Bansal}}$ [[PDF](https://arxiv.org/pdf/2503.15272)] $\color{red}{\text{, 9882-9901, 2025.}}$
 
-12. **MAMM-Refine: A Recipe for Improving Faithfulness in Generation with Multi-Agent Collaboration.** `CoRR`
+12. $\color{red}{\text{MAMM-Refine: A Recipe for Improving Faithfulness in Generation with Multi-Agent Collaboration.}}$ $\color{red}{\text{CoRR}}$
 
-    *David Wan, Justin Chih-Yao Chen, Elias Stengel-Eskin, Mohit Bansal* [[PDF](https://arxiv.org/pdf/2503.15272)], abs/2503.15272, 2025.
+    $\color{red}{\text{David Wan, Justin Chih-Yao Chen, Elias Stengel-Eskin, Mohit Bansal}}$ [[PDF](https://arxiv.org/pdf/2503.15272)] $\color{red}{\text{, abs/2503.15272, 2025.}}$
 
 13. **Preserving Macedonian Culinary Heritage: Fine-Tuning a Large Language Model for Recipe Generation in a Low-Resource Language.** `IEEE Big Data`
 
@@ -132,13 +133,13 @@ Controlled Recipe Generation: Adapting Food Recipes to Meet Dietary Restriction.
 
     *Ruoxuan Zhang, Hongxia Xie, Yi Yao, Jian-Yu Jiang-Lin, Bin Wen, Ling Lo, Hong-Han Shuai, Yung-Hui Li, Wen-Huang Cheng* [[PDF](https://arxiv.org/pdf/2503.05228)], abs/2503.05228, 2025.
 
-18. **RecipeGen: A Step-Aligned Multimodal Benchmark for Real-World Recipe Generation.** `ACM Multimedia`
+18. $\color{red}{\text{RecipeGen: A Step-Aligned Multimodal Benchmark for Real-World Recipe Generation.}}$ $\color{red}{\text{ACM Multimedia}}$
 
-    *Ruoxuan Zhang, Jidong Gao, Bin Wen, Hongxia Xie, Chenming Zhang, Hong-Han Shuai, Wen-Huang Cheng* [[PDF](https://arxiv.org/pdf/2506.06733)], 12659-12665, 2025.
+    $\color{red}{\text{Ruoxuan Zhang, Jidong Gao, Bin Wen, Hongxia Xie, Chenming Zhang, Hong-Han Shuai, Wen-Huang Cheng}}$ [[PDF](https://arxiv.org/pdf/2506.06733)] $\color{red}{\text{, 12659-12665, 2025.}}$
 
-19. **RecipeGen: A Step-Aligned Multimodal Benchmark for Real-World Recipe Generation.** `CoRR`
+19. $\color{red}{\text{RecipeGen: A Step-Aligned Multimodal Benchmark for Real-World Recipe Generation.}}$ $\color{red}{\text{CoRR}}$
 
-    *Ruoxuan Zhang, Jidong Gao, Bin Wen, Hongxia Xie, Chenming Zhang, Hong-Han Shuai, Wen-Huang Cheng* [[PDF](https://arxiv.org/pdf/2506.06733)], abs/2506.06733, 2025.
+    $\color{red}{\text{Ruoxuan Zhang, Jidong Gao, Bin Wen, Hongxia Xie, Chenming Zhang, Hong-Han Shuai, Wen-Huang Cheng}}$ [[PDF](https://arxiv.org/pdf/2506.06733)] $\color{red}{\text{, abs/2506.06733, 2025.}}$
 
 20. **RecipeRAG: Advancing Recipe Generation with Reinforced Retrieval Augmented Generation.** `ACM Multimedia`
 
@@ -148,9 +149,9 @@ Controlled Recipe Generation: Adapting Food Recipes to Meet Dietary Restriction.
 
     *Julie Loesch, Emin Durmus, Remzi Celebi* [[PDF](https://ceur-ws.org/Vol-4079/paper5.pdf)], 56-68, 2025.
 
-22. **Retrieval Augmented Recipe Generation.** `WACV`
+22. $\color{red}{\text{Retrieval Augmented Recipe Generation.}}$ $\color{red}{\text{WACV}}$
 
-    *Guoshan Liu, Hailong Yin, Bin Zhu, Jingjing Chen, Chong-Wah Ngo, Yu-Gang Jiang* [[PDF](https://arxiv.org/pdf/2411.08715)], 2453-2463, 2025.
+    $\color{red}{\text{Guoshan Liu, Hailong Yin, Bin Zhu, Jingjing Chen, Chong-Wah Ngo, Yu-Gang Jiang}}$ [[PDF](https://arxiv.org/pdf/2411.08715)] $\color{red}{\text{, 2453-2463, 2025.}}$
 
 23. **Reverse Prompt: Cracking the Recipe Inside Text-to-Image Generation.** `CoRR`
 
@@ -163,46 +164,168 @@ Controlled Recipe Generation: Adapting Food Recipes to Meet Dietary Restriction.
 25. **'What Can I Cook?' LetMeCook: An LLM-Based Interactive System for Personalized Recipe Generation.** `ACM Multimedia`
 
     *Shiqin Liu, Minjun Zhao, Jiajun Bu*, 13558-13560, 2025.
+    
 ## 2024
 
-1. **ChefFusion: Multimodal Foundation Model Integrating Recipe and Food Image Generation.** `CIKM`
+1. **AI-Powered Mobile Application for Image-Based Food Ingredient Detection and Recipe Generation.** `ICIMTech`
 
-    *Peiyu Li, Xiaobao Huang, Yijun Tian, Nitesh V. Chawla* [[PDF](https://doi.org/10.1145/3627673.3679885)], 3872-3876, 2024.
+    *Thessalonica Maria Luisse Rosaline, Calvin Anacia Suciawan, William Ng, Said Achmad, Jurike V. Moniaga*, 123-128, 2024.
 
-2. **Cooking-Clip: Context-Aware Language-Image Pretraining for Zero-Shot Recipe Generation.** `ICASSP`
+2. $\color{red}{\text{A Recipe for Scaling up Text-to-Video Generation with Text-free Videos.}}$ $\color{red}{\text{CVPR}}$
 
-    *Lin Wang, Haithm M. Al-Gunid, Ammar Hawbani, Yan Xiong* [[PDF](https://doi.org/10.1109/ICASSP48485.2024.10447148)], 11446-11450, 2024.
+    $\color{red}{\text{Xiang Wang, Shiwei Zhang, Hangjie Yuan, Zhiwu Qing, Biao Gong, Yingya Zhang, Yujun Shen, Changxin Gao, Nong Sang}}$ [[PDF](https://arxiv.org/pdf/2312.15770)] $\color{red}{\text{, 6572-6582, 2024.}}$
 
-3. **AI-Powered Mobile Application for Image-Based Food Ingredient Detection and Recipe Generation.** `ICIMTech`
+3. $\color{red}{\text{AutoTemplate: A Simple Recipe for Lexically Constrained Text Generation.}}$ $\color{red}{\text{INLG}}$
 
-    *Thessalonica Maria Luisse Rosaline, Calvin Anacia Suciawan, William Ng, Said Achmad, Jurike V. Moniaga* [[PDF](https://doi.org/10.1109/ICIMTech63123.2024.10780810)], 123-128, 2024.
+    $\color{red}{\text{Hayate Iso}}$ [[PDF](https://arxiv.org/pdf/2211.08387)] $\color{red}{\text{, 1-12, 2024.}}$
 
-4. **FIRE: Food Image to REcipe generation.** `WACV`
+4. $\color{red}{\text{ChefFusion: Multimodal Foundation Model Integrating Recipe and Food Image Generation.}}$ $\color{red}{\text{CIKM}}$
 
-    *Prateek Chhikara, Dhiraj Chaurasia, Yifan Jiang, Omkar Masur, Filip Ilievski* [[PDF](https://openaccess.thecvf.com/content/WACV2024/papers/Chhikara_FIRE_Food_Image_to_REcipe_Generation_WACV_2024_paper.pdf)], 8169-8179, 2024.
+    $\color{red}{\text{Peiyu Li, Xiaobao Huang, Yijun Tian, Nitesh V. Chawla}}$ [[PDF](https://arxiv.org/pdf/2409.12010)] $\color{red}{\text{, 3872-3876, 2024.}}$
 
-5. **Enabling Next-Generation Smart Homes Through Bert Personalized Food Recommendations - RecipeBERT.** `WI/IAT`
+5. $\color{red}{\text{ChefFusion: Multimodal Foundation Model Integrating Recipe and Food Image Generation.}}$ $\color{red}{\text{CoRR}}$
 
-    *Divya Mereddy, Jeevan Sai Reddy Beedareddy* [[PDF](https://doi.org/10.1109/WI-IAT62293.2024.00130)], 796-803, 2024.
+    $\color{red}{\text{Peiyu Li, Xiaobao Huang, Yijun Tian, Nitesh V. Chawla}}$ [[PDF](https://arxiv.org/pdf/2409.12010)] $\color{red}{\text{, abs/2409.12010, 2024.}}$
 
-6. **Retrieval Augmented Recipe Generation.** `CoRR`
+6. **Cooking-Clip: Context-Aware Language-Image Pretraining for Zero-Shot Recipe Generation.** `ICASSP`
 
-    *Guoshan Liu, Hailong Yin, Bin Zhu, Jingjing Chen, Chong-Wah Ngo, Yu-Gang Jiang* [[PDF](https://arxiv.org/pdf/2411.08715)], abs/2411.08715, 2024.
+    *Lin Wang, Haithm M. Al-Gunid, Ammar Hawbani, Yan Xiong*, 11446-11450, 2024.
+
+7. **Enabling Next-Generation Smart Homes Through Bert Personalized Food Recommendations - RecipeBERT.** `WI/IAT`
+
+    *Divya Mereddy, Jeevan Sai Reddy Beedareddy*, 796-803, 2024.
+
+8. $\color{red}{\text{FIRE: Food Image to REcipe generation.}}$ $\color{red}{\text{WACV}}$
+
+    $\color{red}{\text{Prateek Chhikara, Dhiraj Chaurasia, Yifan Jiang, Omkar Masur, Filip Ilievski}}$ [[PDF](https://arxiv.org/pdf/2308.14391)] $\color{red}{\text{, 8169-8179, 2024.}}$
+
+9. $\color{red}{\text{FoodMLLM-JP: Leveraging Multimodal Large Language Models for Japanese Recipe Generation.}}$ $\color{red}{\text{CoRR}}$
+
+    $\color{red}{\text{Yuki Imajuku, Yoko Yamakata, Kiyoharu Aizawa}}$ [[PDF](https://arxiv.org/pdf/2409.18459)] $\color{red}{\text{, abs/2409.18459, 2024.}}$
+
+10. $\color{red}{\text{Monte Carlo Tree Search for Recipe Generation using GPT-2.}}$ $\color{red}{\text{CoRR}}$
+
+    $\color{red}{\text{Karan Taneja, Richard B. Segal, Richard Goodwin}}$ [[PDF](https://arxiv.org/pdf/2401.05199)] $\color{red}{\text{, abs/2401.05199, 2024.}}$
+
+11. $\color{red}{\text{Retrieval Augmented Recipe Generation.}}$ $\color{red}{\text{CoRR}}$
+
+    $\color{red}{\text{Guoshan Liu, Hailong Yin, Bin Zhu, Jingjing Chen, Chong-Wah Ngo, Yu-Gang Jiang}}$ [[PDF](https://arxiv.org/pdf/2411.08715)] $\color{red}{\text{, abs/2411.08715, 2024.}}$
+
+12. **Towards Automated Solution Recipe Generation for Industrial Asset Management with LLM.** `CoRR`
+
+    *Nianjun Zhou, Dhaval Patel, Shuxin Lin, Fearghal O'Donncha* [[PDF](https://arxiv.org/pdf/2407.18992)], abs/2407.18992, 2024.
+
 
 ## 2023
 
-1. **Learning Structural Representations for Recipe Generation and Food Retrieval.** `IEEE Trans. Pattern Anal. Mach. Intell.`
+1. $\color{red}{\text{A Recipe for Scaling up Text-to-Video Generation with Text-free Videos.}}$ $\color{red}{\text{CoRR}}$
 
-    *Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao* [[PDF](https://doi.org/10.1109/TPAMI.2022.3181294)], 45(3): 3363-3377, 2023.
+    $\color{red}{\text{Xiang Wang, Shiwei Zhang, Hangjie Yuan, Zhiwu Qing, Biao Gong, Yingya Zhang, Yujun Shen, Changxin Gao, Nong Sang}}$ [[PDF](https://arxiv.org/pdf/2312.15770)] $\color{red}{\text{, abs/2312.15770, 2023.}}$
 
-2. **Recipe 2.0: Information Presentation for AI-Supported Culinary Idea Generation.** `ICCC`
+2. **Automatic Generation of Funny-Dialog Based on Cuisine Recipes.** `NBiS`
+
+    *Amon Shimozaki, Junya Yamamoto, Akiyo Nadamoto*, 216-226, 2023.
+
+3. $\color{red}{\text{FIRE: Food Image to REcipe generation.}}$ $\color{red}{\text{CoRR}}$
+
+    $\color{red}{\text{Prateek Chhikara, Dhiraj Chaurasia, Yifan Jiang, Omkar Masur, Filip Ilievski}}$ [[PDF](https://arxiv.org/pdf/2308.14391)] $\color{red}{\text{, abs/2308.14391, 2023.}}$
+
+4. $\color{red}{\text{Learning Structural Representations for Recipe Generation and Food Retrieval.}}$ $\color{red}{\text{IEEE Trans. Pattern Anal. Mach. Intell.}}$
+
+    $\color{red}{\text{Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao}}$ [[PDF](https://arxiv.org/pdf/2110.01209)] $\color{red}{\text{, 45, 3363-3377, 2023.}}$
+
+5. $\color{red}{\text{Monte Carlo Tree Search for Recipe Generation using GPT-2.}}$ $\color{red}{\text{ICCC}}$
+
+    $\color{red}{\text{Karan Taneja, Richard B. Segal, Richard Goodwin}}$ [[PDF](https://computationalcreativity.net/iccc23/papers/ICCC-2023_paper_46.pdf)] $\color{red}{\text{, 20-28, 2023.}}$
+
+6. **Recipe 2.0: Information Presentation for AI-Supported Culinary Idea Generation.** `ICCC`
 
     *Angel Hsing-Chi Hwang, Samy Badreddine, Frederick Gifford, Tarek R. Besold* [[PDF](https://computationalcreativity.net/iccc23/papers/ICCC-2023_paper_34.pdf)], 443-452, 2023.
 
-3. **Monte Carlo Tree Search for Recipe Generation using GPT-2.** `ICCC`
+7. $\color{red}{\text{Synthetic Text Generation with Differential Privacy: A Simple and Practical Recipe.}}$ $\color{red}{\text{ACL}}$
 
-    *Karan Taneja, Richard B. Segal, Richard Goodwin* [[PDF](https://arxiv.org/pdf/2401.05199)], 20-28, 2023.
+    $\color{red}{\text{Xiang Yue, Huseyin A. Inan, Xuechen Li, Girish Kumar, Julia McAnallen, Hoda Shajari, Huan Sun, David Levitan, Robert Sim}}$ [[PDF](https://arxiv.org/pdf/2210.14348)] $\color{red}{\text{, 1321-1342, 2023.}}$
 
-4. **The Multimodal And Modular Ai Chef: Complex Recipe Generation From Imagery.** `CoRR`
+8. **The Multimodal And Modular Ai Chef: Complex Recipe Generation From Imagery.** `CoRR`
 
     *David A. Noever, Samantha Elizabeth Miller Noever* [[PDF](https://arxiv.org/pdf/2304.02016)], abs/2304.02016, 2023.
+
+## 2022
+
+1. $\color{red}{\text{AutoTemplate: A Simple Recipe for Lexically Constrained Text Generation.}}$ $\color{red}{\text{CoRR}}$
+
+    $\color{red}{\text{Hayate Iso}}$ [[PDF](https://arxiv.org/pdf/2211.08387)] $\color{red}{\text{, abs/2211.08387, 2022.}}$
+
+2. $\color{red}{\text{Counterfactual Recipe Generation: Exploring Compositional Generalization in a Realistic Scenario.}}$ $\color{red}{\text{EMNLP}}$
+
+    $\color{red}{\text{Xiao Liu, Yansong Feng, Jizhi Tang, Chengang Hu, Dongyan Zhao}}$ [[PDF](https://arxiv.org/pdf/2210.11431)] $\color{red}{\text{, 7354-7370, 2022.}}$
+
+3. $\color{red}{\text{Counterfactual Recipe Generation: Exploring Compositional Generalization in a Realistic Scenario.}}$ $\color{red}{\text{CoRR}}$
+
+    $\color{red}{\text{Xiao Liu, Yansong Feng, Jizhi Tang, Chengang Hu, Dongyan Zhao}}$ [[PDF](https://arxiv.org/pdf/2210.11431)] $\color{red}{\text{, abs/2210.11431, 2022.}}$
+
+4. **Decomposing generation networks with structure prediction for recipe generation.** `Pattern Recognit.`
+
+    *Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao*, 126, 108578, 2022.
+
+5. **FOON Creation and Traversal for Recipe Generation.** `CoRR`
+
+    *Raj Patel* [[PDF](https://arxiv.org/pdf/2210.07335)], abs/2210.07335, 2022.
+
+6. **Ingredient-enriched Recipe Generation from Cooking Videos.** `ICMR`
+
+    *Jianlong Wu, Liangming Pan, Jingjing Chen, Yu-Gang Jiang*, 249-257, 2022.
+
+7. **Multimodal feature fusion and exploitation with dual learning and reinforcement learning for recipe generation.** `Appl. Soft Comput.`
+
+    *Mengyang Zhang, Guohui Tian, Huanbing Gao, Shaopeng Liu, Ying Zhang*, 126, 109281, 2022.
+
+8. **Plug-and-Play Recipe Generation with Content Planning.** `CoRR`
+
+    *Yinhong Liu, Yixuan Su, Ehsan Shareghi, Nigel Collier* [[PDF](https://arxiv.org/pdf/2212.05093)], abs/2212.05093, 2022.
+
+9. $\color{red}{\text{Ratatouille: A tool for Novel Recipe Generation.}}$ $\color{red}{\text{ICDE Workshops}}$
+
+    $\color{red}{\text{Mansi Goel, Pallab Chakraborty, Vijay Ponnaganti, Minnet Khan, Sritanaya Tatipamala, Aakanksha Saini, Ganesh Bagler}}$ [[PDF](https://arxiv.org/pdf/2206.08267)] $\color{red}{\text{, 107-110, 2022.}}$
+
+10. $\color{red}{\text{Ratatouille: A tool for Novel Recipe Generation.}}$ $\color{red}{\text{CoRR}}$
+
+    $\color{red}{\text{Mansi Goel, Pallab Chakraborty, Vijay Ponnaganti, Minnet Khan, Sritanaya Tatipamala, Aakanksha Saini, Ganesh Bagler}}$ [[PDF](https://arxiv.org/pdf/2206.08267)] $\color{red}{\text{, abs/2206.08267, 2022.}}$
+
+11. $\color{red}{\text{Recipe Generation from Unsegmented Cooking Videos.}}$ $\color{red}{\text{CoRR}}$
+
+    $\color{red}{\text{Taichi Nishimura, Atsushi Hashimoto, Yoshitaka Ushiku, Hirotaka Kameko, Shinsuke Mori}}$ [[PDF](https://arxiv.org/pdf/2209.10134)] $\color{red}{\text{, abs/2209.10134, 2022.}}$
+
+12. **Reinforcement Learning for Logic Recipe Generation: Bridging Gaps From Images to Plans.** `IEEE Trans. Multim.`
+
+    *Mengyang Zhang, Guohui Tian, Ying Zhang, Peng Duan*, 24, 352-365, 2022.
+
+13. $\color{red}{\text{Synthetic Text Generation with Differential Privacy: A Simple and Practical Recipe.}}$ $\color{red}{\text{CoRR}}$
+
+    $\color{red}{\text{Xiang Yue, Huseyin A. Inan, Xuechen Li, Girish Kumar, Julia McAnallen, Huan Sun, David Levitan, Robert Sim}}$ [[PDF](https://arxiv.org/pdf/2210.14348)] $\color{red}{\text{, abs/2210.14348, 2022.}}$
+
+14. **Towards Fine-Dining Recipe Generation with Generative Pre-trained Transformers.** `CoRR`
+
+    *Konstantinos Katserelis, Konstantinos Skianis* [[PDF](https://arxiv.org/pdf/2209.12774)], abs/2209.12774, 2022.
+
+## 2021
+
+1. **Critique Generation to Increase Diversity in Conversational Recipe Recommender System.** `FLAIRS`
+
+    *Fakhri Abbas, Nadia Najjar, David C. Wilson* [[PDF](https://doi.org/10.32473/flairs.v34i1.128517)], 2021.
+
+2. **Ingredient Substitute Recommendation Based on Collaborative Filtering and Recipe Context for Automatic Allergy-Safe Recipe Generation.** `WebMedia`
+
+    *Luciano D. S. Pacífico, Larissa F. S. Britto, Teresa Bernarda Ludermir*, 97-104, 2021.
+
+3. $\color{red}{\text{Learning Structural Representations for Recipe Generation and Food Retrieval.}}$ $\color{red}{\text{CoRR}}$
+
+    $\color{red}{\text{Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao}}$ [[PDF](https://arxiv.org/pdf/2110.01209)] $\color{red}{\text{, abs/2110.01209, 2021.}}$
+
+4. **Model for Cooking Recipe Generation using Reinforcement Learning.** `ICDE Workshops`
+
+    *Jumpei Fujita, Masahiro Sato, Hajime Nobuhara*, 1-4, 2021.
+
+5. **RecipeGM: A Hierarchical Recipe Generation Model.** `ICDE Workshops`
+
+    *Anja Reusch, Alexander Weber, Maik Thiele, Wolfgang Lehner*, 24-29, 2021.
