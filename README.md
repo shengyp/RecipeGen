@@ -2,13 +2,13 @@
 
 ## 2026
   
-1.**Can LLMs Cook Jamaican Couscous? A Study of Cultural Novelty in Recipe Generation.** `FAccT`
+1. <span style="color:red">**Can LLMs Cook Jamaican Couscous? A Study of Cultural Novelty in Recipe Generation.** `FAccT`</span>
 
-    *Florian Carichon, Romain Rampa, Golnoosh Farnadi* [[PDF](https://arxiv.org/pdf/2602.10964)], 2705-2726, 2026.
+    <span style="color:red">*Florian Carichon, Romain Rampa, Golnoosh Farnadi* [[PDF](https://arxiv.org/pdf/2602.10964)], 2705-2726, 2026.</span>
 
-2. **Can LLMs Cook Jamaican Couscous? A Study of Cultural Novelty in Recipe Generation.** `CoRR`
+2. <span style="color:red">**Can LLMs Cook Jamaican Couscous? A Study of Cultural Novelty in Recipe Generation.** `CoRR`</span>
 
-    *Florian Carichon, Romain Rampa, Golnoosh Farnadi* [[PDF](https://arxiv.org/pdf/2602.10964)], abs/2602.10964, 2026.
+    <span style="color:red">*Florian Carichon, Romain Rampa, Golnoosh Farnadi* [[PDF](https://arxiv.org/pdf/2602.10964)], abs/2602.10964, 2026.</span>
 
 3. **Causal-rCM: A Unified Teacher-Forcing and Self-Forcing Open Recipe for Autoregressive Diffusion Distillation in Streaming Video Generation and Interactive World Models.** `CoRR`
 
@@ -26,13 +26,13 @@
 
     *Guoshan Liu, Bin Zhu, Yian Li, Jingjing Chen, Chong-Wah Ngo, Yu-Gang Jiang* [[PDF](https://arxiv.org/pdf/2602.15862)], abs/2602.15862, 2026.
 
-7. **Losses that Cook: Topological Optimal Transport for Structured Recipe Generation.** `ACL`
+7. <span style="color:red">**Losses that Cook: Topological Optimal Transport for Structured Recipe Generation.** `ACL`</span>
 
-    *Mattia Ottoborgo, Daniele Rege Cambrin, Paolo Garza* [[PDF](https://arxiv.org/pdf/2601.02531)], 26489-26500, 2026.
+    <span style="color:red">*Mattia Ottoborgo, Daniele Rege Cambrin, Paolo Garza* [[PDF](https://arxiv.org/pdf/2601.02531)], 26489-26500, 2026.</span>
 
-8. **Losses that Cook: Topological Optimal Transport for Structured Recipe Generation.** `CoRR`
+8. <span style="color:red">**Losses that Cook: Topological Optimal Transport for Structured Recipe Generation.** `CoRR`</span>
 
-    *Mattia Ottoborgo, Daniele Rege Cambrin, Paolo Garza* [[PDF](https://arxiv.org/pdf/2601.02531)], abs/2601.02531, 2026.
+    <span style="color:red">*Mattia Ottoborgo, Daniele Rege Cambrin, Paolo Garza* [[PDF](https://arxiv.org/pdf/2601.02531)], abs/2601.02531, 2026.</span>
 
 9. **Profile-Aware Trustworthy Recipe Generation with Planner-Critic Agentic Remediation.** `CoRR`
 
@@ -42,17 +42,17 @@
 
     *Nuhu Ibrahim, Rishi Ravikumar, Robert Stevens, Riza Batista-Navarro* [[PDF](https://doi.org/10.18653/v1/2026.findings-eacl.210)], 4058-4074, 2026.
 
-11. **Recipe Generation from Unsegmented Cooking Videos.** `ACM Trans. Multim. Comput. Commun. Appl.`
+11. <span style="color:red">**Recipe Generation from Unsegmented Cooking Videos.** `ACM Trans. Multim. Comput. Commun. Appl.`</span>
 
-    *Taichi Nishimura, Atsushi Hashimoto, Yoshitaka Ushiku, Hirotaka Kameko, Shinsuke Mori* [[PDF](https://arxiv.org/pdf/2209.10134)], 22, 268:1-268:25, 2026.
+    <span style="color:red">*Taichi Nishimura, Atsushi Hashimoto, Yoshitaka Ushiku, Hirotaka Kameko, Shinsuke Mori* [[PDF](https://arxiv.org/pdf/2209.10134)], 22, 268:1-268:25, 2026.</span>
 
-12. **Recipes for Creativity: Iterative Generation and Evaluation in Large Language Models.** `ICCC`
+12. <span style="color:red">**Recipes for Creativity: Iterative Generation and Evaluation in Large Language Models.** `ICCC`</span>
 
-    *Rens Anderson, Tessa Verhoef, Amirhossein Zohrehvand* [[PDF](https://computationalcreativity.net/iccc26/papers/ICCC26_paper_160.pdf)], 306-312, 2026.
+    <span style="color:red">*Rens Anderson, Tessa Verhoef, Amirhossein Zohrehvand* [[PDF](https://computationalcreativity.net/iccc26/papers/ICCC26_paper_160.pdf)], 306-312, 2026.</span>
 
-13. **Recipes for Creativity: Iterative Generation and Evaluation in Large Language Models.** `CoRR`
+13. <span style="color:red">**Recipes for Creativity: Iterative Generation and Evaluation in Large Language Models.** `CoRR`</span>
 
-    *Rens Anderson, Tessa Verhoef, Amirhossein Zohrehvand* [[PDF](https://arxiv.org/pdf/2608.07243)], abs/2608.07243, 2026.
+    <span style="color:red">*Rens Anderson, Tessa Verhoef, Amirhossein Zohrehvand* [[PDF](https://arxiv.org/pdf/2608.07243)], abs/2608.07243, 2026.</span>
 
 14. **The Relationship Between Perceived Diversity and Entropy of AI-Generated Content: A Case Study in Recipe Generation.** `Int. J. Hum. Comput. Interact.`
 
