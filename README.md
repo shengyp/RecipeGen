@@ -2,7 +2,7 @@
 
 ## 2026
   
-Can LLMs Cook Jamaican Couscous? A Study of Cultural Novelty in Recipe Generation.** `FAccT`
+1.**Can LLMs Cook Jamaican Couscous? A Study of Cultural Novelty in Recipe Generation.** `FAccT`
 
     *Florian Carichon, Romain Rampa, Golnoosh Farnadi* [[PDF](https://arxiv.org/pdf/2602.10964)], 2705-2726, 2026.
 
