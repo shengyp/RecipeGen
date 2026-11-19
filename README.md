@@ -190,27 +190,35 @@
 
     *Jiangqin Ma, Bilal Mawji, Franz Williams* [[PDF](https://arxiv.org/pdf/2407.00911)], abs/2407.00911, 2024.
 
-7. **FIRE: Food Image to REcipe generation.** `WACV`
+7. **Defining and Detecting Incomplete Ingredient Descriptions in Cooking Recipes.** `PACLIC`
+
+    *Masatoshi Tsuchiya, Daigo Kohno* [[PDF](https://aclanthology.org/2024.paclic-1.43.pdf)], 433-439, 2024.
+
+8. **FIRE: Food Image to REcipe generation.** `WACV`
 
     *Prateek Chhikara, Dhiraj Chaurasia, Yifan Jiang, Omkar Masur, Filip Ilievski* [[PDF](https://arxiv.org/pdf/2308.14391)], 8169-8179, 2024.
 
-8. **Fusing Vision and Language Models to Generate Sequence of Recipe Images from Steps.** `Tiny Papers @ ICLR`
+9. **Food Pairing Unveiled: Exploring Recipe Creation Dynamics through Recommender Systems.** `CoRR`
+
+    *Giovanni Palermo, Claudio Caprioli, Giambattista Albora* [[PDF](https://arxiv.org/pdf/2406.15533)], abs/2406.15533, 2024.
+
+10. **Fusing Vision and Language Models to Generate Sequence of Recipe Images from Steps.** `Tiny Papers @ ICLR`
 
     *Hshmat Sahak* [[PDF](https://openreview.net/forum?id=McFvoo7s6V)], 2024.
 
-9. **LLaVA-Chef: A Multi-modal Generative Model for Food Recipes.** `CIKM`
+11. **LLaVA-Chef: A Multi-modal Generative Model for Food Recipes.** `CIKM`
 
     *Fnu Mohbat, Mohammed J. Zaki* [[PDF](https://arxiv.org/pdf/2408.16889)], 1711-1721, 2024.
 
-10. **Optimizing Ingredient Substitution Using Large Language Models to Enhance Phytochemical Content in Recipes.** `Mach. Learn. Knowl. Extr.`
+12. **Optimizing Ingredient Substitution Using Large Language Models to Enhance Phytochemical Content in Recipes.** `Mach. Learn. Knowl. Extr.`
 
     *Luis Rita, Joshua Southern, Ivan Laponogov, Kyle Higgins, Kirill A. Veselkov* [[PDF](https://arxiv.org/pdf/2409.08792)], 6, 2738-2752, 2024.
 
-11. **RecipeSD: Injecting Recipe into Food Image Synthesis with Stable Diffusion.** `MCGE@MM`
+13. **RecipeSD: Injecting Recipe into Food Image Synthesis with Stable Diffusion.** `MCGE@MM`
 
     *Jing Yang, Junwen Chen, Keiji Yanai* [[PDF](https://doi.org/10.1145/3688867.3690173)], 54-62, 2024.
 
-12. **User-Friendly Health-Conscious Recipe Adaptation System Using Fuzzy Linguistic Variables.** `IPMU`
+14. **User-Friendly Health-Conscious Recipe Adaptation System Using Fuzzy Linguistic Variables.** `IPMU`
 
     *Andrea Morales-Garzón, Roberto Morcillo-Jiménez, Karel Gutiérrez-Batista, María J. Martín-Bautista* [[PDF](https://doi.org/10.1007/978-3-031-73997-2_8)], 82-93, 2024.
 
@@ -236,39 +244,43 @@
 
     *Sandeep Khanna, Chiranjoy Chattopadhyay, Suman Kundu* [[PDF](https://arxiv.org/pdf/2309.10403)], 234-244, 2023.
 
-6. **Large Language Models as Sous Chefs: Revising Recipes with GPT-3.** `CoRR`
+6. **KitchenScale: Learning to predict ingredient quantities from recipe contexts.** `Expert Syst. Appl.`
+
+    *Donghee Choi, Mogan Gim, Samy Badreddine, Hajung Kim, Donghyeon Park, Jaewoo Kang* [[PDF](https://arxiv.org/pdf/2304.10739)], 224, 120041, 2023.
+
+7. **Large Language Models as Sous Chefs: Revising Recipes with GPT-3.** `CoRR`
 
     *Alyssa Hwang, Bryan Li, Zhaoyi Hou, Dan Roth* [[PDF](https://arxiv.org/pdf/2306.13986)], abs/2306.13986, 2023.
 
-7. **Learning Structural Representations for Recipe Generation and Food Retrieval.** `IEEE Trans. Pattern Anal. Mach. Intell.`
+8. **Learning Structural Representations for Recipe Generation and Food Retrieval.** `IEEE Trans. Pattern Anal. Mach. Intell.`
 
     *Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao* [[PDF](https://arxiv.org/pdf/2110.01209)], 45, 3363-3377, 2023.
 
-8. **Learning to Substitute Ingredients in Recipes.** `CoRR`
+9. **Learning to Substitute Ingredients in Recipes.** `CoRR`
 
     *Bahare Fatemi, Quentin Duval, Rohit Girdhar, Michal Drozdzal, Adriana Romero-Soriano* [[PDF](https://arxiv.org/pdf/2302.07960)], abs/2302.07960, 2023.
 
-9. **Mask-based Food Image Synthesis with Cross-Modal Recipe Embeddings.** `MMAsia`
+10. **Mask-based Food Image Synthesis with Cross-Modal Recipe Embeddings.** `MMAsia`
 
     *Zhongtao Chen, Yuma Honbu, Keiji Yanai* [[PDF](https://doi.org/10.1145/3595916.3626418)], 46:1-46:7, 2023.
 
-10. **Monte Carlo Tree Search for Recipe Generation using GPT-2.** `ICCC`
+11. **Monte Carlo Tree Search for Recipe Generation using GPT-2.** `ICCC`
 
     *Karan Taneja, Richard B. Segal, Richard Goodwin* [[PDF](https://arxiv.org/pdf/2401.05199)], 20-28, 2023.
 
-11. **Recipe2Video: Synthesizing Personalized Videos from Recipe Texts.** `WACV`
+12. **Recipe2Video: Synthesizing Personalized Videos from Recipe Texts.** `WACV`
 
     *Prateksha Udhayanan, Suryateja BV, Parth Laturia, Dev Chauhan, Darshan Khandelwal, Stefano Petrangeli, Balaji Vasan Srinivasan* [[PDF](https://doi.org/10.1109/WACV56688.2023.00230)], 2267-2276, 2023.
 
-12. **ReciPic: A Tool for Generating Infographic from Recipe Procedure Text.** `IV`
+13. **ReciPic: A Tool for Generating Infographic from Recipe Procedure Text.** `IV`
 
     *Lechang Zhang, Takayuki Itoh* [[PDF](https://doi.org/10.1109/IV60283.2023.00012)], 7-12, 2023.
 
-13. **Smart Cuisine: Generative recipe & ChatGPT powered nutrition assistance for sustainable cooking.** `KES`
+14. **Smart Cuisine: Generative recipe & ChatGPT powered nutrition assistance for sustainable cooking.** `KES`
 
     *Ponrawin Kansaksiri, Pongpipat Panomkhet, Natthanet Tantisuwichwong* [[PDF](https://doi.org/10.1016/j.procs.2023.10.193)], 2028-2036, 2023.
 
-14. **The Multimodal And Modular Ai Chef: Complex Recipe Generation From Imagery.** `CoRR`
+15. **The Multimodal And Modular Ai Chef: Complex Recipe Generation From Imagery.** `CoRR`
 
     *David A. Noever, Samantha Elizabeth Miller Noever* [[PDF](https://arxiv.org/pdf/2304.02016)], abs/2304.02016, 2023.
 
@@ -352,35 +364,39 @@
 
     *Andrea Morales-Garzón, Juan Gómez-Romero, María J. Martín-Bautista* [[PDF](https://doi.org/10.1109/ACCESS.2021.3058559)], 9, 27389-27404, 2021.
 
-3. **Ingredient Substitute Recommendation Based on Collaborative Filtering and Recipe Context for Automatic Allergy-Safe Recipe Generation.** `WebMedia`
+3. **DeepRecipes: Exploring Massive Online Recipes and Recovering Food Ingredient Amounts.** `IEEE Access`
+
+    *Kequan Li, Yan Chen, Hongsong Li, Xiangwei Mu, Xuhong Zhang, Xiaozhong Liu* [[PDF](https://doi.org/10.1109/ACCESS.2021.3077645)], 9, 67859-67873, 2021.
+
+4. **Ingredient Substitute Recommendation Based on Collaborative Filtering and Recipe Context for Automatic Allergy-Safe Recipe Generation.** `WebMedia`
 
     *Luciano D. S. Pacífico, Larissa F. S. Britto, Teresa Bernarda Ludermir* [[PDF](https://doi.org/10.1145/3470482.3479622)], 97-104, 2021.
 
-4. **Model for Cooking Recipe Generation using Reinforcement Learning.** `ICDE Workshops`
+5. **Model for Cooking Recipe Generation using Reinforcement Learning.** `ICDE Workshops`
 
     *Jumpei Fujita, Masahiro Sato, Hajime Nobuhara* [[PDF](https://doi.org/10.1109/ICDEW53142.2021.00007)], 1-4, 2021.
 
-5. **Recipe1M+: A Dataset for Learning Cross-Modal Embeddings for Cooking Recipes and Food Images.** `IEEE Trans. Pattern Anal. Mach. Intell.`
+6. **Recipe1M+: A Dataset for Learning Cross-Modal Embeddings for Cooking Recipes and Food Images.** `IEEE Trans. Pattern Anal. Mach. Intell.`
 
     *Javier Marín, Aritro Biswas, Ferda Ofli, Nicholas Hynes, Amaia Salvador, Yusuf Aytar, Ingmar Weber, Antonio Torralba* [[PDF](https://doi.org/10.1109/TPAMI.2019.2927476)], 43, 187-203, 2021.
 
-6. **RecipeBowl: A Cooking Recommender for Ingredients and Recipes Using Set Transformer.** `IEEE Access`
+7. **RecipeBowl: A Cooking Recommender for Ingredients and Recipes Using Set Transformer.** `IEEE Access`
 
     *Mogan Gim, Donghyeon Park, Michael Spranger, Kana Maruyama, Jaewoo Kang* [[PDF](https://doi.org/10.1109/ACCESS.2021.3120265)], 9, 143623-143633, 2021.
 
-7. **Recipe Enrichment: Knowledge Required for a Cooking Assistant.** `ICAART`
+8. **Recipe Enrichment: Knowledge Required for a Cooking Assistant.** `ICAART`
 
     *Nils Neumann, Sven Wachsmuth* [[PDF](https://doi.org/10.5220/0010250908220829)], 822-829, 2021.
 
-8. **RecipeGM: A Hierarchical Recipe Generation Model.** `ICDE Workshops`
+9. **RecipeGM: A Hierarchical Recipe Generation Model.** `ICDE Workshops`
 
     *Anja Reusch, Alexander Weber, Maik Thiele, Wolfgang Lehner* [[PDF](https://doi.org/10.1109/ICDEW53142.2021.00012)], 24-29, 2021.
 
-9. **RecipeLog: Recipe Authoring App for Accurate Food Recording.** `ACM Multimedia`
+10. **RecipeLog: Recipe Authoring App for Accurate Food Recording.** `ACM Multimedia`
 
     *Akihisa Ishino, Yoko Yamakata, Hiroaki Karasawa, Kiyoharu Aizawa* [[PDF](https://doi.org/10.1145/3474085.3478563)], 2798-2800, 2021.
 
-10. **Take on Me: A Gamified Crowdsourcing App for Sharing Substitutes of Recipe Ingredients.** `PACIS`
+11. **Take on Me: A Gamified Crowdsourcing App for Sharing Substitutes of Recipe Ingredients.** `PACIS`
 
     *Martin Lurz, Monika Wintergerst, Dennis Grimm, Markus Böhm, Georg Groh, Helmut Krcmar* [[PDF](https://aisel.aisnet.org/pacis2021/133)], 133, 2021.
 
@@ -433,4 +449,5 @@
 12. **Structure-Aware Generation Network for Recipe Generation from Images.** `ECCV`
 
     *Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao* [[PDF](https://arxiv.org/pdf/2009.00944)], 359-374, 2020.
+
 
