@@ -455,7 +455,7 @@
 
 1. **Inverse Cooking: Recipe Generation From Food Images.** `CVPR`
 
-    *Amaia Salvador, Michal Drozdzal, Xavier Giró-i-Nieto, Adriana Romero* [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Salvador_Inverse_Cooking_Recipe_Generation_From_Food_Images_CVPR_2019_paper.html)], 10453-10462, 2019.
+    *Amaia Salvador, Michal Drozdzal, Xavier Giró-i-Nieto, Adriana Romero* [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Salvador_Inverse_Cooking_Recipe_Generation_From_Food_Images_CVPR_2019_paper.html)] [[Code](https://github.com/facebookresearch/inversecooking)], 10453-10462, 2019.
 
 2. **"Never fry carrots without cutting." Cooking Recipe Generation from Videos Using Deep Learning Considering Previous Process.** `BCD`
 
@@ -479,7 +479,7 @@
 
 7. **Estimating Glycemic Impact of Cooking Recipes via Online Crowdsourcing and Machine Learning.** `PDH`
 
-    *Helena H. Lee, Palakorn Achananuparp, Yue Liu, Ee-Peng Lim, Lav R. Varshney* [[PDF](https://doi.org/10.1145/3357729.3357748)], 31-35, 2019.
+    *Helena H. Lee, Palakorn Achananuparp, Yue Liu, Ee-Peng Lim, Lav R. Varshney* [[PDF](https://doi.org/10.1145/3357729.3357748)] [[Code](https://github.com/LARC-CMU-SMU/dph19-glycemic-impact)], 31-35, 2019.
 
 8. **Learning Distributed Representation of Recipe Flow Graphs via Frequent Subgraphs.** `CEA@ICMR`
 
@@ -491,7 +491,7 @@
 
 10. **R2GAN: Cross-Modal Recipe Retrieval With Generative Adversarial Network.** `CVPR`
 
-    *Bin Zhu, Chong-Wah Ngo, Jingjing Chen, Yanbin Hao* [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhu_R2GAN_Cross-Modal_Recipe_Retrieval_With_Generative_Adversarial_Network_CVPR_2019_paper.html)], 11477-11486, 2019.
+    *Bin Zhu, [Chong-Wah Ngo](https://www.smu.edu.sg/faculty/profile/12126N_Ngo-Chong-Wah), Jingjing Chen, Yanbin Hao* [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhu_R2GAN_Cross-Modal_Recipe_Retrieval_With_Generative_Adversarial_Network_CVPR_2019_paper.html)], 11477-11486, 2019.
 
 11. **Food Image to Cooking Instructions Conversion Through Compressed Embeddings Using Deep Learning.** `ICDE Workshops`
 
@@ -499,7 +499,7 @@
 
 12. **A New Large-scale Food Image Segmentation Dataset and Its Application to Food Calorie Estimation Based on Grains of Rice.** `MADiMa @ ACM Multimedia`
 
-    *Takumi Ege, Wataru Shimoda, Keiji Yanai* [[PDF](https://doi.org/10.1145/3347448.3357162)], 82-87, 2019.
+    *Takumi Ege, Wataru Shimoda, [Keiji Yanai](https://mm.cs.uec.ac.jp/)* [[PDF](https://doi.org/10.1145/3347448.3357162)], 82-87, 2019.
 
 13. **Checking the Plausibility of Nutrient Data in Food Datasets Using KNIME and Big Data.** `WiMob`
 
@@ -521,7 +521,7 @@
 
 3. **Deep Understanding of Cooking Procedure for Cross-modal Recipe Retrieval.** `ACM Multimedia`
 
-    *Jingjing Chen, Chong-Wah Ngo, Fuli Feng, Tat-Seng Chua* [[PDF](https://doi.org/10.1145/3240508.3240627)], 1020-1028, 2018.
+    *Jingjing Chen, [Chong-Wah Ngo](https://www.smu.edu.sg/faculty/profile/12126N_Ngo-Chong-Wah), Fuli Feng, Tat-Seng Chua* [[PDF](https://doi.org/10.1145/3240508.3240627)], 1020-1028, 2018.
 
 4. **NutRec: Nutrition Oriented Online Recipe Recommender.** `WI`
 
@@ -537,11 +537,11 @@
 
 7. **Image-Based Food Calorie Estimation Using Recipe Information.** `IEICE Trans. Inf. Syst.`
 
-    *Takumi Ege, Keiji Yanai* [[PDF](https://doi.org/10.1587/TRANSINF.2017MVP0027)], 1333-1341, 2018.
+    *Takumi Ege, [Keiji Yanai](https://mm.cs.uec.ac.jp/)* [[PDF](https://doi.org/10.1587/TRANSINF.2017MVP0027)], 1333-1341, 2018.
 
 8. **Cross-modal recipe retrieval with stacked attention model.** `Multim. Tools Appl.`
 
-    *Jingjing Chen, Lei Pang, Chong-Wah Ngo* [[PDF](https://doi.org/10.1007/S11042-018-5964-Y)], 29457-29473, 2018.
+    *Jingjing Chen, Lei Pang, [Chong-Wah Ngo](https://www.smu.edu.sg/faculty/profile/12126N_Ngo-Chong-Wah)* [[PDF](https://doi.org/10.1007/S11042-018-5964-Y)], 29457-29473, 2018.
 
 9. **Multi-Modal Multi-Task Learning for Automatic Dietary Assessment.** `AAAI`
 
@@ -549,11 +549,11 @@
 
 10. **Multi-task learning of dish detection and calorie estimation.** `MADiMa@IJCAI`
 
-    *Takumi Ege, Keiji Yanai* [[PDF](https://doi.org/10.1145/3230519.3230594)], 53-58, 2018.
+    *Takumi Ege, [Keiji Yanai](https://mm.cs.uec.ac.jp/)* [[PDF](https://doi.org/10.1145/3230519.3230594)], 53-58, 2018.
 
 11. **Food image generation using a large amount of food images with conditional GAN: ramenGAN and recipeGAN.** `MADiMa@IJCAI`
 
-    *Yoshifumi Ito, Wataru Shimoda, Keiji Yanai* [[PDF](https://doi.org/10.1145/3230519.3230598)], 71-74, 2018.
+    *Yoshifumi Ito, Wataru Shimoda, [Keiji Yanai](https://mm.cs.uec.ac.jp/)* [[PDF](https://doi.org/10.1145/3230519.3230598)], 71-74, 2018.
 
 12. **A multi-task learning approach for meal assessment.** `MADiMa@IJCAI`
 
@@ -567,15 +567,15 @@
 
 1. **Learning Cross-Modal Embeddings for Cooking Recipes and Food Images.** `CVPR`
 
-    *Amaia Salvador, Nicholas Hynes, Yusuf Aytar, Javier Marín, Ferda Ofli, Ingmar Weber, Antonio Torralba* [[PDF](https://doi.org/10.1109/CVPR.2017.327)], 3068-3076, 2017.
+    *Amaia Salvador, Nicholas Hynes, Yusuf Aytar, Javier Marín, Ferda Ofli, Ingmar Weber, Antonio Torralba* [[PDF](https://doi.org/10.1109/CVPR.2017.327)] [[Code](https://github.com/torralba-lab/im2recipe)], 3068-3076, 2017.
 
 2. **Cross-modal Recipe Retrieval with Rich Food Attributes.** `ACM Multimedia`
 
-    *Jingjing Chen, Chong-Wah Ngo, Tat-Seng Chua* [[PDF](https://doi.org/10.1145/3123266.3123428)], 1771-1779, 2017.
+    *Jingjing Chen, [Chong-Wah Ngo](https://www.smu.edu.sg/faculty/profile/12126N_Ngo-Chong-Wah), Tat-Seng Chua* [[PDF](https://doi.org/10.1145/3123266.3123428)], 1771-1779, 2017.
 
 3. **Cross-Modal Recipe Retrieval: How to Cook this Dish?** `MMM (1)`
 
-    *Jingjing Chen, Lei Pang, Chong-Wah Ngo* [[PDF](https://doi.org/10.1007/978-3-319-51811-4_48)], 588-600, 2017.
+    *Jingjing Chen, Lei Pang, [Chong-Wah Ngo](https://www.smu.edu.sg/faculty/profile/12126N_Ngo-Chong-Wah)* [[PDF](https://doi.org/10.1007/978-3-319-51811-4_48)], 588-600, 2017.
 
 4. **Exploiting Food Choice Biases for Healthier Recipe Recommendation.** `SIGIR`
 
@@ -615,7 +615,7 @@
 
 13. **Image-Based Food Calorie Estimation Using Knowledge on Food Categories, Ingredients and Cooking Directions.** `ACM Multimedia (Thematic Workshops)`
 
-    *Takumi Ege, Keiji Yanai* [[PDF](https://doi.org/10.1145/3126686.3126742)], 367-375, 2017.
+    *Takumi Ege, [Keiji Yanai](https://mm.cs.uec.ac.jp/)* [[PDF](https://doi.org/10.1145/3126686.3126742)], 367-375, 2017.
 
 14. **Calories Prediction from Food Images.** `AAAI`
 
