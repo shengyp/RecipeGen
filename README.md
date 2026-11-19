@@ -450,5 +450,176 @@
 
     *[Hao Wang](https://github.com/hwang1996), [Guosheng Lin](https://guosheng.github.io/), Steven C. H. Hoi, Chunyan Miao* [[PDF](https://arxiv.org/pdf/2009.00944)], 359-374, 2020.
 
+## 2019
 
+1. **Inverse Cooking: Recipe Generation From Food Images.** `CVPR`
 
+    *Amaia Salvador, Michal Drozdzal, Xavier Giró-i-Nieto, Adriana Romero* [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Salvador_Inverse_Cooking_Recipe_Generation_From_Food_Images_CVPR_2019_paper.html)], 10453-10462, 2019.
+
+2. **"Never fry carrots without cutting." Cooking Recipe Generation from Videos Using Deep Learning Considering Previous Process.** `BCD`
+
+    *Tatsuki Fujii, Yuichi Sei, Yasuyuki Tahara, Ryohei Orihara, Akihiko Ohsuga* [[PDF](https://doi.org/10.1109/BCD.2019.8885222)], 124-129, 2019.
+
+3. **Video-Based Cross-Modal Recipe Retrieval.** `ACM Multimedia`
+
+    *Da Cao, Zhiwang Yu, Hanling Zhang, Jiansheng Fang, Liqiang Nie, Qi Tian* [[PDF](https://doi.org/10.1145/3343031.3351067)], 1685-1693, 2019.
+
+4. **Self-Attention and Ingredient-Attention Based Model for Recipe Retrieval from Image Queries.** `MADiMa @ ACM Multimedia`
+
+    *Matthias Fontanellaz, Stergios Christodoulidis, Stavroula G. Mougiakakou* [[PDF](https://doi.org/10.1145/3347448.3357163)], 25-31, 2019.
+
+5. **Comparing Semantic and Nutrient Value Similarities of Recipes.** `IEEE BigData`
+
+    *Gordana Ispirova, Tome Eftimov, Barbara Korousic-Seljak* [[PDF](https://doi.org/10.1109/BIGDATA47090.2019.9006080)], 5131-5139, 2019.
+
+6. **Personalized, Health-Aware Recipe Recommendation: An Ensemble Topic Modeling Based Approach.** `HealthRecSys@RecSys`
+
+    *Mansura A. Khan, Ellen Rushe, Barry Smyth, David Coyle* [[PDF](https://ceur-ws.org/Vol-2439/3-paginated.pdf)], 4-10, 2019.
+
+7. **Estimating Glycemic Impact of Cooking Recipes via Online Crowdsourcing and Machine Learning.** `PDH`
+
+    *Helena H. Lee, Palakorn Achananuparp, Yue Liu, Ee-Peng Lim, Lav R. Varshney* [[PDF](https://doi.org/10.1145/3357729.3357748)], 31-35, 2019.
+
+8. **Learning Distributed Representation of Recipe Flow Graphs via Frequent Subgraphs.** `CEA@ICMR`
+
+    *Akari Ninomiya, Tomonobu Ozaki* [[PDF](https://doi.org/10.1145/3326458.3326931)], 25-28, 2019.
+
+9. **Exploring Chinese Dietary Habits Using Recipes Extracted From Websites.** `IEEE Access`
+
+    *Chuitian Rong, Zhaopei Liu, Na Huo, Huabo Sun* [[PDF](https://doi.org/10.1109/ACCESS.2019.2900504)], 24354-24361, 2019.
+
+10. **R2GAN: Cross-Modal Recipe Retrieval With Generative Adversarial Network.** `CVPR`
+
+    *Bin Zhu, Chong-Wah Ngo, Jingjing Chen, Yanbin Hao* [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhu_R2GAN_Cross-Modal_Recipe_Retrieval_With_Generative_Adversarial_Network_CVPR_2019_paper.html)], 11477-11486, 2019.
+
+11. **Food Image to Cooking Instructions Conversion Through Compressed Embeddings Using Deep Learning.** `ICDE Workshops`
+
+    *Madhu Kumari, Tajinder Singh* [[PDF](https://doi.org/10.1109/ICDEW.2019.00-31)], 81-84, 2019.
+
+12. **A New Large-scale Food Image Segmentation Dataset and Its Application to Food Calorie Estimation Based on Grains of Rice.** `MADiMa @ ACM Multimedia`
+
+    *Takumi Ege, Wataru Shimoda, Keiji Yanai* [[PDF](https://doi.org/10.1145/3347448.3357162)], 82-87, 2019.
+
+13. **Checking the Plausibility of Nutrient Data in Food Datasets Using KNIME and Big Data.** `WiMob`
+
+    *Alexander Münzberg, Janina Sauer, Andreas Hein, Norbert Rösch* [[PDF](https://doi.org/10.1109/WIMOB.2019.8923233)], 1-4, 2019.
+
+14. **MithraLabel: Flexible Dataset Nutritional Labels for Responsible Data Science.** `CIKM`
+
+    *Chenkai Sun, Abolfazl Asudeh, H. V. Jagadish, Bill Howe, Julia Stoyanovich* [[PDF](https://doi.org/10.1145/3357384.3357853)], 2893-2896, 2019.
+
+## 2018
+
+1. **RecipeQA: A Challenge Dataset for Multimodal Comprehension of Cooking Recipes.** `EMNLP`
+
+    *Semih Yagcioglu, Aykut Erdem, Erkut Erdem, Nazli Ikizler-Cinbis* [[PDF](https://doi.org/10.18653/V1/D18-1166)], 1358-1368, 2018.
+
+2. **The CRWB RSbench: Towards a Cooking Recipe Benchmark Initiative.** `ICDE Workshops`
+
+    *Frédéric Andrès* [[PDF](https://doi.org/10.1109/ICDEW.2018.00032)], 154-156, 2018.
+
+3. **Deep Understanding of Cooking Procedure for Cross-modal Recipe Retrieval.** `ACM Multimedia`
+
+    *Jingjing Chen, Chong-Wah Ngo, Fuli Feng, Tat-Seng Chua* [[PDF](https://doi.org/10.1145/3240508.3240627)], 1020-1028, 2018.
+
+4. **NutRec: Nutrition Oriented Online Recipe Recommender.** `WI`
+
+    *Elizabeth Gorbonos, Yang Liu, Chinh T. Hoang* [[PDF](https://doi.org/10.1109/WI.2018.0-111)], 25-32, 2018.
+
+5. **RecipeScape: An Interactive Tool for Analyzing Cooking Instructions at Scale.** `CHI`
+
+    *Minsuk Chang, Léonore V. Guillain, Hyeungshik Jung, Vivian M. Hare, Juho Kim, Maneesh Agrawala* [[PDF](https://doi.org/10.1145/3173574.3174025)], 451, 2018.
+
+6. **Images and Recipes: Retrieval in the Cooking Context.** `ICDE Workshops`
+
+    *Micael Carvalho, Rémi Cadène, David Picard, Laure Soulier, Matthieu Cord* [[PDF](https://doi.org/10.1109/ICDEW.2018.00035)], 169-174, 2018.
+
+7. **Image-Based Food Calorie Estimation Using Recipe Information.** `IEICE Trans. Inf. Syst.`
+
+    *Takumi Ege, Keiji Yanai* [[PDF](https://doi.org/10.1587/TRANSINF.2017MVP0027)], 1333-1341, 2018.
+
+8. **Cross-modal recipe retrieval with stacked attention model.** `Multim. Tools Appl.`
+
+    *Jingjing Chen, Lei Pang, Chong-Wah Ngo* [[PDF](https://doi.org/10.1007/S11042-018-5964-Y)], 29457-29473, 2018.
+
+9. **Multi-Modal Multi-Task Learning for Automatic Dietary Assessment.** `AAAI`
+
+    *Qi Liu, Yue Zhang, Zhenguang Liu, Ye Yuan, Li Cheng, Roger Zimmermann* [[PDF](https://doi.org/10.1609/AAAI.V32I1.11848)], 2347-2354, 2018.
+
+10. **Multi-task learning of dish detection and calorie estimation.** `MADiMa@IJCAI`
+
+    *Takumi Ege, Keiji Yanai* [[PDF](https://doi.org/10.1145/3230519.3230594)], 53-58, 2018.
+
+11. **Food image generation using a large amount of food images with conditional GAN: ramenGAN and recipeGAN.** `MADiMa@IJCAI`
+
+    *Yoshifumi Ito, Wataru Shimoda, Keiji Yanai* [[PDF](https://doi.org/10.1145/3230519.3230598)], 71-74, 2018.
+
+12. **A multi-task learning approach for meal assessment.** `MADiMa@IJCAI`
+
+    *Ya Lu, Dario Allegra, Marios Anthimopoulos, Filippo Stanco, Giovanni Maria Farinella, Stavroula G. Mougiakakou* [[PDF](https://doi.org/10.1145/3230519.3230593)], 46-52, 2018.
+
+13. **Bag-of-foods: analysis of personal foodlogging data.** `MADiMa@IJCAI`
+
+    *Yuji Goda, Sosuke Amano, Yoko Yamakata, Kiyoharu Aizawa* [[PDF](https://doi.org/10.1145/3230519.3230596)], 63-66, 2018.
+
+## 2017
+
+1. **Learning Cross-Modal Embeddings for Cooking Recipes and Food Images.** `CVPR`
+
+    *Amaia Salvador, Nicholas Hynes, Yusuf Aytar, Javier Marín, Ferda Ofli, Ingmar Weber, Antonio Torralba* [[PDF](https://doi.org/10.1109/CVPR.2017.327)], 3068-3076, 2017.
+
+2. **Cross-modal Recipe Retrieval with Rich Food Attributes.** `ACM Multimedia`
+
+    *Jingjing Chen, Chong-Wah Ngo, Tat-Seng Chua* [[PDF](https://doi.org/10.1145/3123266.3123428)], 1771-1779, 2017.
+
+3. **Cross-Modal Recipe Retrieval: How to Cook this Dish?** `MMM (1)`
+
+    *Jingjing Chen, Lei Pang, Chong-Wah Ngo* [[PDF](https://doi.org/10.1007/978-3-319-51811-4_48)], 588-600, 2017.
+
+4. **Exploiting Food Choice Biases for Healthier Recipe Recommendation.** `SIGIR`
+
+    *David Elsweiler, Christoph Trattner, Morgan Harvey* [[PDF](https://doi.org/10.1145/3077136.3080826)], 575-584, 2017.
+
+5. **Investigating the Healthiness of Internet-Sourced Recipes: Implications for Meal Planning and Recommender Systems.** `WWW`
+
+    *Christoph Trattner, David Elsweiler* [[PDF](https://doi.org/10.1145/3038912.3052573)], 489-498, 2017.
+
+6. **On the Relations Between Cooking Interests, Hobbies and Nutritional Values of Online Recipes: Implications for Health-Aware Recipe Recommender Systems.** `UMAP (Adjunct Publication)`
+
+    *Christoph Trattner, Markus Rokicki, Eelco Herder* [[PDF](https://doi.org/10.1145/3099023.3099072)], 59-64, 2017.
+
+7. **Personalized Recipe Recommendations for Toddlers Based on Nutrient Intake and Food Preferences.** `MEDES`
+
+    *Yiu-Kai Ng, Meilan Jin* [[PDF](https://doi.org/10.1145/3167020.3167057)], 243-250, 2017.
+
+8. **Towards the Automatic Detection of Nutritional Incompatibilities Based on Recipe Titles.** `CD-MAKE`
+
+    *Nadia Clairet, Mathieu Lafourcade* [[PDF](https://doi.org/10.1007/978-3-319-66808-6_23)], 346-366, 2017.
+
+9. **Cooking Made Easy: On a Novel Approach to Complexity-Aware Recipe Generation.** `ICCBR (Workshops)`
+
+    *Gilbert Müller, Ralph Bergmann* [[PDF](https://ceur-ws.org/Vol-2028/paper26.pdf)], 229-236, 2017.
+
+10. **A Delicious Recipe Analysis Framework for Exploring Multi-Modal Recipes with Various Attributes.** `ACM Multimedia`
+
+    *Weiqing Min, Shuqiang Jiang, Shuhui Wang, Jitao Sang, Shuhuan Mei* [[PDF](https://doi.org/10.1145/3123266.3123272)], 402-410, 2017.
+
+11. **Cookpad Image Dataset: An Image Collection as Infrastructure for Food Research.** `SIGIR`
+
+    *Jun Harashima, Yuichiro Someya, Yohei Kikuta* [[PDF](https://doi.org/10.1145/3077136.3080686)], 1229-1232, 2017.
+
+12. **Computer vision-based food calorie estimation: dataset, method, and experiment.** `CoRR`
+
+    *Yanchao Liang, Jianhua Li* [[PDF](https://doi.org/10.48550/ARXIV.1705.07632)], 2017.
+
+13. **Image-Based Food Calorie Estimation Using Knowledge on Food Categories, Ingredients and Cooking Directions.** `ACM Multimedia (Thematic Workshops)`
+
+    *Takumi Ege, Keiji Yanai* [[PDF](https://doi.org/10.1145/3126686.3126742)], 367-375, 2017.
+
+14. **Calories Prediction from Food Images.** `AAAI`
+
+    *Manal Chokr, Shady Elbassuoni* [[PDF](https://doi.org/10.1609/AAAI.V31I1.19092)], 4664-4669, 2017.
+
+15. **Diabetes60 - Inferring Bread Units From Food Images Using Fully Convolutional Neural Networks.** `ICCV Workshops`
+
+    *Patrick Ferdinand Christ, Sebastian Schlecht, Florian Ettlinger, Felix Grün, Christoph Heinle, Sunil Tatavarty, Seyed-Ahmad Ahmadi, Klaus Diepold, Bjoern H. Menze* [[PDF](https://doi.org/10.1109/ICCVW.2017.180)], 1526-1535, 2017.
