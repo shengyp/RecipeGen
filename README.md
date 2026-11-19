@@ -4,7 +4,7 @@
 
 1. **A framework for recipe data structure with applications for culinary and nutritional insights.** `CoRR`
 
-    *Mansi Goel, Sumit Bhagat, Saloni Srivastava, Malav Patel, Shlok Vinodkumar Mehroliya, Ganesh Bagler* [[PDF](https://arxiv.org/pdf/2609.22099)], abs/2609.22099, 2026.
+    *[Mansi Goel](https://mansigoel01.github.io/), Sumit Bhagat, Saloni Srivastava, Malav Patel, Shlok Vinodkumar Mehroliya, [Ganesh Bagler](https://cosylab.iiitd.edu.in/)* [[PDF](https://arxiv.org/pdf/2609.22099)], abs/2609.22099, 2026.
 
 2. **Chinese Recipe Flow Graph.** `ICIC`
 
@@ -12,11 +12,11 @@
 
 3. **Culinary Crossroads: A RAG Framework for Enhancing Diversity in Cross-Cultural Recipe Adaptation.** `ACL`
 
-    *Tianyi Hu, Andrea Morales-Garzón, Jingyi Zheng, Maria Maistro, Daniel Hershcovich* [[PDF](https://arxiv.org/pdf/2507.21934)], 2408-2423, 2026.
+    *[Tianyi Hu](https://github.com/TenneyHu), [Andrea Morales-Garzón](https://github.com/andreamorgar), Jingyi Zheng, Maria Maistro, Daniel Hershcovich* [[PDF](https://arxiv.org/pdf/2507.21934)], 2408-2423, 2026.
 
 4. **Do Recipes Have Personas? Characterizing and Generating Creator Style in Attributed Procedural Graphs.** `DS`
 
-    *Lei Jiang* [[PDF](https://arxiv.org/pdf/2608.24369)], 769-784, 2026.
+    *[Lei Jiang](https://github.com/lionelc)* [[PDF](https://arxiv.org/pdf/2608.24369)], 769-784, 2026.
 
 5. **Enhancing Action and Ingredient Modeling for Semantically Grounded Recipe Generation.** `CoRR`
 
@@ -24,11 +24,11 @@
 
 6. **JFC-Recipe: A Dataset for Nutrient Estimation from Japanese User-Generated Cooking Recipes.** `LREC`
 
-    *Keisuke Shirai, Yoko Yamakata, Hirotaka Kameko, Akiko Sunto, Jun Harashima, Shinsuke Mori* [[PDF](https://doi.org/10.63317/42sopxjrdzsf)], 6349-6360, 2026.
+    *Keisuke Shirai, Yoko Yamakata, Hirotaka Kameko, Akiko Sunto, Jun Harashima, [Shinsuke Mori](https://www.lsta.media.kyoto-u.ac.jp/mori/author/main-e.html)* [[PDF](https://doi.org/10.63317/42sopxjrdzsf)], 6349-6360, 2026.
 
 7. **Losses that Cook: Topological Optimal Transport for Structured Recipe Generation.** `ACL`
 
-    *Mattia Ottoborgo, Daniele Rege Cambrin, Paolo Garza* [[PDF](https://arxiv.org/pdf/2601.02531)], 26489-26500, 2026.
+    *Mattia Ottoborgo, [Daniele Rege Cambrin](https://github.com/DarthReca), Paolo Garza* [[PDF](https://arxiv.org/pdf/2601.02531)], 26489-26500, 2026.
 
 8. **Profile-Aware Trustworthy Recipe Generation with Planner-Critic Agentic Remediation.** `CoRR`
 
@@ -36,11 +36,11 @@
 
 9. **ReciFine: Finely Annotated Recipe Dataset for Controllable Recipe Generation.** `EACL`
 
-    *Nuhu Ibrahim, Rishi Ravikumar, Robert Stevens, Riza Batista-Navarro* [[PDF](https://doi.org/10.18653/v1/2026.findings-eacl.210)], 4058-4074, 2026.
+    *[Nuhu Ibrahim](https://github.com/nuhu-ibrahim), Rishi Ravikumar, Robert Stevens, Riza Batista-Navarro* [[PDF](https://doi.org/10.18653/v1/2026.findings-eacl.210)], 4058-4074, 2026.
 
 10. **Recipe Generation from Unsegmented Cooking Videos.** `ACM Trans. Multim. Comput. Commun. Appl.`
 
-    *Taichi Nishimura, Atsushi Hashimoto, Yoshitaka Ushiku, Hirotaka Kameko, Shinsuke Mori* [[PDF](https://arxiv.org/pdf/2209.10134)], 22, 268:1-268:25, 2026.
+    *[Taichi Nishimura](https://github.com/awkrail), Atsushi Hashimoto, Yoshitaka Ushiku, Hirotaka Kameko, [Shinsuke Mori](https://www.lsta.media.kyoto-u.ac.jp/mori/author/main-e.html)* [[PDF](https://arxiv.org/pdf/2209.10134)], 22, 268:1-268:25, 2026.
 
 11. **ReGraph: Learning to Generate Recipe Graphs from Food Images.** `CoRR`
 
@@ -48,13 +48,13 @@
 
 12. **Using AI as a Chef: Users Overlook Nutritional Flaws in LLM-Generated Recipes.** `UMAP`
 
-    *Yelyzaveta Lysova, Christoph Trattner, Alain Dominique Starke* [[PDF](https://doi.org/10.1145/3774935.3806157)], 273-281, 2026.
+    *[Yelyzaveta Lysova](https://github.com/YelyzavetaLysova), [Christoph Trattner](https://www.uib.no/en/persons/Christoph.Trattner), Alain Dominique Starke* [[PDF](https://doi.org/10.1145/3774935.3806157)], 273-281, 2026.
 
 ## 2025
 
 1. **Adaptafood: an intelligent system to adapt recipes to specialised diets and healthy lifestyles.** `Multim. Syst.`
 
-    *Andrea Morales-Garzón, Karel Gutiérrez-Batista, María J. Martín-Bautista* [[PDF](https://doi.org/10.1007/s00530-025-01667-y)], 31, 87, 2025.
+    *[Andrea Morales-Garzón](https://andreamorgar.github.io), Karel Gutiérrez-Batista, María J. Martín-Bautista* [[PDF](https://doi.org/10.1007/s00530-025-01667-y)], 31, 87, 2025.
 
 2. **A Multilingual Ontology and Knowledge Graph for CRWB Recipe dataset.** `IEEE DataPort`
 
@@ -62,7 +62,7 @@
 
 3. **A Multilingual Ontology and Knowledge Graph for Recipes.** `ICDEW`
 
-    *Mansi Goel, Frédéric Andrès* [[PDF](https://doi.org/10.1109/ICDEW67478.2025.00040)], 282-288, 2025.
+    *[Mansi Goel](https://mansigoel01.github.io/), Frédéric Andrès* [[PDF](https://doi.org/10.1109/ICDEW67478.2025.00040)], 282-288, 2025.
 
 4. **Construction of recipe knowledge graph based on user knowledge demands.** `J. Inf. Sci.`
 
@@ -74,7 +74,7 @@
 
 6. **CookAnything: A Framework for Flexible and Consistent Multi-Step Recipe Image Generation.** `ACM Multimedia`
 
-    *Ruoxuan Zhang, Bin Wen, Hongxia Xie, Yi Yao, Songhan Zuo, Jian-Yu Jiang-Lin, Hong-Han Shuai, Wen-Huang Cheng* [[PDF](https://arxiv.org/pdf/2512.03540)], 7854-7863, 2025.
+    *[Ruoxuan Zhang](https://github.com/zhangdaxia22), Bin Wen, Hongxia Xie, Yi Yao, Songhan Zuo, Jian-Yu Jiang-Lin, Hong-Han Shuai, Wen-Huang Cheng* [[PDF](https://arxiv.org/pdf/2512.03540)], 7854-7863, 2025.
 
 7. **CookGALIP: Recipe Controllable Generative Adversarial CLIPs With Sequential Ingredient Prompts for Food Image Generation.** `IEEE Trans. Multim.`
 
@@ -110,7 +110,7 @@
 
 15. **LLM-Based Healthiness? Analyzing the Nutritional Quality of an AI-Generated Recipe Dataset.** `RecSoGood@RecSys`
 
-    *Ayoub El Majjodi, Jonas Bech Holtan, Alain D. Starke, Christoph Trattner* [[PDF](https://doi.org/10.1007/978-3-032-13342-7_7)], 78-89, 2025.
+    *Ayoub El Majjodi, Jonas Bech Holtan, Alain D. Starke, [Christoph Trattner](https://www.uib.no/en/persons/Christoph.Trattner)* [[PDF](https://doi.org/10.1007/978-3-032-13342-7_7)], 78-89, 2025.
 
 16. **ONFOODS: A Substitute Recommendation System in Food Recipes.** `DEXA`
 
@@ -122,7 +122,7 @@
 
 18. **RecipeBuild: Learning to Build Recipe Ideas Using Language Model-Based Recipe Contextual Modeling.** `IEEE Access`
 
-    *Donghee Choi, Jaesung Hwang, Mogan Gim, Donghyeon Park* [[PDF](https://doi.org/10.1109/ACCESS.2025.3610410)], 13, 172051-172061, 2025.
+    *[Donghee Choi](https://github.com/dongheechoi), Jaesung Hwang, Mogan Gim, Donghyeon Park* [[PDF](https://doi.org/10.1109/ACCESS.2025.3610410)], 13, 172051-172061, 2025.
 
 19. **Recipe Diffusion: Cross-Frame Attention and Region-Aware Diffusion for Coherent Visual Recipe Instruction Generation.** `APSIPA`
 
@@ -130,11 +130,11 @@
 
 20. **RecipeGen: A Benchmark for Real-World Recipe Image Generation.** `CoRR`
 
-    *Ruoxuan Zhang, Hongxia Xie, Yi Yao, Jian-Yu Jiang-Lin, Bin Wen, Ling Lo, Hong-Han Shuai, Yung-Hui Li, Wen-Huang Cheng* [[PDF](https://arxiv.org/pdf/2503.05228)], abs/2503.05228, 2025.
+    *[Ruoxuan Zhang](https://github.com/zhangdaxia22), Hongxia Xie, Yi Yao, Jian-Yu Jiang-Lin, Bin Wen, Ling Lo, Hong-Han Shuai, Yung-Hui Li, Wen-Huang Cheng* [[PDF](https://arxiv.org/pdf/2503.05228)], abs/2503.05228, 2025.
 
 21. **RecipeGen: A Step-Aligned Multimodal Benchmark for Real-World Recipe Generation.** `ACM Multimedia`
 
-    *Ruoxuan Zhang, Jidong Gao, Bin Wen, Hongxia Xie, Chenming Zhang, Hong-Han Shuai, Wen-Huang Cheng* [[PDF](https://arxiv.org/pdf/2506.06733)], 12659-12665, 2025.
+    *[Ruoxuan Zhang](https://github.com/zhangdaxia22), Jidong Gao, Bin Wen, Hongxia Xie, Chenming Zhang, Hong-Han Shuai, Wen-Huang Cheng* [[PDF](https://arxiv.org/pdf/2506.06733)], 12659-12665, 2025.
 
 22. **RecipeRAG: Advancing Recipe Generation with Reinforced Retrieval Augmented Generation.** `ACM Multimedia`
 
@@ -154,7 +154,7 @@
 
 26. **The Digital Sous Chef - A Comparative Study on Fine-Tuning Language Models for Recipe Generation.** `CoRR`
 
-    *Shubham Pundhir, Ganesh Bagler* [[PDF](https://arxiv.org/pdf/2508.14718)], abs/2508.14718, 2025.
+    *Shubham Pundhir, [Ganesh Bagler](https://cosylab.iiitd.edu.in/)* [[PDF](https://arxiv.org/pdf/2508.14718)], abs/2508.14718, 2025.
 
 27. **Towards Automated Recipe Reconstruction: Optimization of Dietary Data Collection using Information Retrieval, Large Language Models and Mathematical Optimization.** `IEEE Big Data`
 
@@ -176,7 +176,7 @@
 
 3. **ChefFusion: Multimodal Foundation Model Integrating Recipe and Food Image Generation.** `CIKM`
 
-    *Peiyu Li, Xiaobao Huang, Yijun Tian, Nitesh V. Chawla* [[PDF](https://arxiv.org/pdf/2409.12010)], 3872-3876, 2024.
+    *[Peiyu Li](https://github.com/Peiyu-Georgia-Li), Xiaobao Huang, Yijun Tian, Nitesh V. Chawla* [[PDF](https://arxiv.org/pdf/2409.12010)], 3872-3876, 2024.
 
 4. **Construction of Ingredient Embedding Considering Both Cooking Recipes and Their Ingredients.** `BigComp`
 
@@ -184,11 +184,11 @@
 
 5. **Cooking-Clip: Context-Aware Language-Image Pretraining for Zero-Shot Recipe Generation.** `ICASSP`
 
-    *Lin Wang, Haithm M. Al-Gunid, Ammar Hawbani, Yan Xiong* [[PDF](https://doi.org/10.1109/ICASSP48485.2024.10447148)], 11446-11450, 2024.
+    *[Lin Wang](https://github.com/ustcwanglin), Haithm M. Al-Gunid, Ammar Hawbani, Yan Xiong* [[PDF](https://doi.org/10.1109/ICASSP48485.2024.10447148)], 11446-11450, 2024.
 
 6. **Deep Image-to-Recipe Translation.** `CoRR`
 
-    *Jiangqin Ma, Bilal Mawji, Franz Williams* [[PDF](https://arxiv.org/pdf/2407.00911)], abs/2407.00911, 2024.
+    *[Jiangqin Ma](https://github.com/majiangqin), Bilal Mawji, Franz Williams* [[PDF](https://arxiv.org/pdf/2407.00911)], abs/2407.00911, 2024.
 
 7. **Defining and Detecting Incomplete Ingredient Descriptions in Cooking Recipes.** `PACLIC`
 
@@ -196,7 +196,7 @@
 
 8. **FIRE: Food Image to REcipe generation.** `WACV`
 
-    *Prateek Chhikara, Dhiraj Chaurasia, Yifan Jiang, Omkar Masur, Filip Ilievski* [[PDF](https://arxiv.org/pdf/2308.14391)], 8169-8179, 2024.
+    *[Prateek Chhikara](https://github.com/prateekchhikara), Dhiraj Chaurasia, Yifan Jiang, Omkar Masur, Filip Ilievski* [[PDF](https://arxiv.org/pdf/2308.14391)], 8169-8179, 2024.
 
 9. **Food Pairing Unveiled: Exploring Recipe Creation Dynamics through Recommender Systems.** `CoRR`
 
@@ -208,7 +208,7 @@
 
 11. **LLaVA-Chef: A Multi-modal Generative Model for Food Recipes.** `CIKM`
 
-    *Fnu Mohbat, Mohammed J. Zaki* [[PDF](https://arxiv.org/pdf/2408.16889)], 1711-1721, 2024.
+    *[Fnu Mohbat](https://github.com/mohbattharani), Mohammed J. Zaki* [[PDF](https://arxiv.org/pdf/2408.16889)], 1711-1721, 2024.
 
 12. **Optimizing Ingredient Substitution Using Large Language Models to Enhance Phytochemical Content in Recipes.** `Mach. Learn. Knowl. Extr.`
 
@@ -220,17 +220,17 @@
 
 14. **User-Friendly Health-Conscious Recipe Adaptation System Using Fuzzy Linguistic Variables.** `IPMU`
 
-    *Andrea Morales-Garzón, Roberto Morcillo-Jiménez, Karel Gutiérrez-Batista, María J. Martín-Bautista* [[PDF](https://doi.org/10.1007/978-3-031-73997-2_8)], 82-93, 2024.
+    *[Andrea Morales-Garzón](https://andreamorgar.github.io), Roberto Morcillo-Jiménez, Karel Gutiérrez-Batista, María J. Martín-Bautista* [[PDF](https://doi.org/10.1007/978-3-031-73997-2_8)], 82-93, 2024.
 
 ## 2023
 
 1. **Assistive Recipe Editing through Critiquing.** `EACL`
 
-    *Diego Antognini, Shuyang Li, Boi Faltings, Julian J. McAuley* [[PDF](https://arxiv.org/pdf/2205.02454)], 375-384, 2023.
+    *Diego Antognini, [Shuyang Li](https://shuyangli.me), Boi Faltings, [Julian J. McAuley](https://cseweb.ucsd.edu/~jmcauley/)* [[PDF](https://arxiv.org/pdf/2205.02454)], 375-384, 2023.
 
 2. **Cook-Gen: Robust Generative Modeling of Cooking Actions from Recipes.** `SMC`
 
-    *Revathy Venkataramanan, Kaushik Roy, Kanak Raj, Renjith Prasad, Yuxin Zi, Vignesh Narayanan, Amit P. Sheth* [[PDF](https://arxiv.org/pdf/2306.01805)], 981-986, 2023.
+    *[Revathy Venkataramanan](https://github.com/revathyramanan), Kaushik Roy, Kanak Raj, Renjith Prasad, Yuxin Zi, Vignesh Narayanan, Amit P. Sheth* [[PDF](https://arxiv.org/pdf/2306.01805)], 981-986, 2023.
 
 3. **EvoRecipes: A Generative Approach for Evolving Context-Aware Recipes.** `IEEE Access`
 
@@ -242,19 +242,19 @@
 
 5. **INDoRI: Indian Dataset of Recipes and Ingredients and Its Ingredient Network.** `COMPLEX NETWORKS`
 
-    *Sandeep Khanna, Chiranjoy Chattopadhyay, Suman Kundu* [[PDF](https://arxiv.org/pdf/2309.10403)], 234-244, 2023.
+    *Sandeep Khanna, [Chiranjoy Chattopadhyay](https://github.com/gesstalt), Suman Kundu* [[PDF](https://arxiv.org/pdf/2309.10403)], 234-244, 2023.
 
 6. **KitchenScale: Learning to predict ingredient quantities from recipe contexts.** `Expert Syst. Appl.`
 
-    *Donghee Choi, Mogan Gim, Samy Badreddine, Hajung Kim, Donghyeon Park, Jaewoo Kang* [[PDF](https://arxiv.org/pdf/2304.10739)], 224, 120041, 2023.
+    *Donghee Choi, Mogan Gim, Samy Badreddine, Hajung Kim, Donghyeon Park, [Jaewoo Kang](https://dmis.korea.ac.kr/)* [[PDF](https://arxiv.org/pdf/2304.10739)], 224, 120041, 2023.
 
 7. **Large Language Models as Sous Chefs: Revising Recipes with GPT-3.** `CoRR`
 
-    *Alyssa Hwang, Bryan Li, Zhaoyi Hou, Dan Roth* [[PDF](https://arxiv.org/pdf/2306.13986)], abs/2306.13986, 2023.
+    *[Alyssa Hwang](https://github.com/ahwang16), Bryan Li, Zhaoyi Hou, Dan Roth* [[PDF](https://arxiv.org/pdf/2306.13986)], abs/2306.13986, 2023.
 
 8. **Learning Structural Representations for Recipe Generation and Food Retrieval.** `IEEE Trans. Pattern Anal. Mach. Intell.`
 
-    *Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao* [[PDF](https://arxiv.org/pdf/2110.01209)], 45, 3363-3377, 2023.
+    *[Hao Wang](https://github.com/hwang1996), [Guosheng Lin](https://guosheng.github.io/), Steven C. H. Hoi, Chunyan Miao* [[PDF](https://arxiv.org/pdf/2110.01209)], 45, 3363-3377, 2023.
 
 9. **Learning to Substitute Ingredients in Recipes.** `CoRR`
 
@@ -288,7 +288,7 @@
 
 1. **Counterfactual Recipe Generation: Exploring Compositional Generalization in a Realistic Scenario.** `EMNLP`
 
-    *Xiao Liu, Yansong Feng, Jizhi Tang, Chengang Hu, Dongyan Zhao* [[PDF](https://arxiv.org/pdf/2210.11431)], 7354-7370, 2022.
+    *[Xiao Liu](https://github.com/xxxiaol), Yansong Feng, Jizhi Tang, Chengang Hu, Dongyan Zhao* [[PDF](https://arxiv.org/pdf/2210.11431)], 7354-7370, 2022.
 
 2. **Decomposing generation networks with structure prediction for recipe generation.** `Pattern Recognit.`
 
@@ -316,15 +316,15 @@
 
 8. **Plug-and-Play Recipe Generation with Content Planning.** `CoRR`
 
-    *Yinhong Liu, Yixuan Su, Ehsan Shareghi, Nigel Collier* [[PDF](https://arxiv.org/pdf/2212.05093)], abs/2212.05093, 2022.
+    *[Yinhong Liu](https://github.com/williamLyh), Yixuan Su, Ehsan Shareghi, Nigel Collier* [[PDF](https://arxiv.org/pdf/2212.05093)], abs/2212.05093, 2022.
 
 9. **Ratatouille: A tool for Novel Recipe Generation.** `ICDE Workshops`
 
-    *Mansi Goel, Pallab Chakraborty, Vijay Ponnaganti, Minnet Khan, Sritanaya Tatipamala, Aakanksha Saini, Ganesh Bagler* [[PDF](https://arxiv.org/pdf/2206.08267)], 107-110, 2022.
+    *[Mansi Goel](https://github.com/mansigoel01), Pallab Chakraborty, Vijay Ponnaganti, Minnet Khan, Sritanaya Tatipamala, Aakanksha Saini, [Ganesh Bagler](https://cosylab.iiitd.edu.in/)* [[PDF](https://arxiv.org/pdf/2206.08267)], 107-110, 2022.
 
 10. **RecipeMind:  Guiding Ingredient Choices from Food Pairing to Recipe Completion using Cascaded Set Transformer.** `CIKM`
 
-    *Mogan Gim, Donghee Choi, Kana Maruyama, Jihun Choi, Hajung Kim, Donghyeon Park, Jaewoo Kang* [[PDF](https://arxiv.org/pdf/2210.10628)], 3092-3102, 2022.
+    *Mogan Gim, Donghee Choi, Kana Maruyama, Jihun Choi, Hajung Kim, Donghyeon Park, [Jaewoo Kang](https://dmis.korea.ac.kr/)* [[PDF](https://arxiv.org/pdf/2210.10628)], 3092-3102, 2022.
 
 11. **Recipe-oriented Food Logging for Nutritional Management.** `ACM Multimedia`
 
@@ -340,7 +340,7 @@
 
 14. **SHARE: a System for Hierarchical Assistive Recipe Editing.** `EMNLP`
 
-    *Shuyang Li, Yufei Li, Jianmo Ni, Julian J. McAuley* [[PDF](https://arxiv.org/pdf/2105.08185)], 11077-11090, 2022.
+    *[Shuyang Li](https://github.com/shuyangli94), Yufei Li, Jianmo Ni, [Julian J. McAuley](https://cseweb.ucsd.edu/~jmcauley/)* [[PDF](https://arxiv.org/pdf/2105.08185)], 11077-11090, 2022.
 
 15. **Smart Diet Management through Food Image and Cooking Recipe Analysis.** `BIBM`
 
@@ -348,7 +348,7 @@
 
 16. **The Proof is in the Pudding: Using Automated Theorem Proving to Generate Cooking Recipes.** `CoRR`
 
-    *Louis Mahon, Carl Vogel* [[PDF](https://arxiv.org/pdf/2203.02683)], abs/2203.02683, 2022.
+    *[Louis Mahon](https://github.com/Lou1sM), Carl Vogel* [[PDF](https://arxiv.org/pdf/2203.02683)], abs/2203.02683, 2022.
 
 17. **Towards Fine-Dining Recipe Generation with Generative Pre-trained Transformers.** `CoRR`
 
@@ -362,7 +362,7 @@
 
 2. **A Word Embedding-Based Method for Unsupervised Adaptation of Cooking Recipes.** `IEEE Access`
 
-    *Andrea Morales-Garzón, Juan Gómez-Romero, María J. Martín-Bautista* [[PDF](https://doi.org/10.1109/ACCESS.2021.3058559)], 9, 27389-27404, 2021.
+    *[Andrea Morales-Garzón](https://github.com/andreamorgar), Juan Gómez-Romero, María J. Martín-Bautista* [[PDF](https://doi.org/10.1109/ACCESS.2021.3058559)], 9, 27389-27404, 2021.
 
 3. **DeepRecipes: Exploring Massive Online Recipes and Recovering Food Ingredient Amounts.** `IEEE Access`
 
@@ -432,7 +432,7 @@
 
 8. **RecipeDB: a resource for exploring recipes.** `Database J. Biol. Databases Curation`
 
-    *Devansh Batra, Nirav Diwan, Utkarsh Upadhyay, Jushaan Singh Kalra, Tript Sharma, Aman Kumar Sharma, Dheeraj Khanna, Jaspreet Singh Marwah, Srilakshmi Kalathil, Navjot Singh, Rudraksh Tuwani, Ganesh Bagler* [[PDF](https://doi.org/10.1093/database/baaa077)], 2020, 2020.
+    *Devansh Batra, Nirav Diwan, Utkarsh Upadhyay, Jushaan Singh Kalra, Tript Sharma, Aman Kumar Sharma, Dheeraj Khanna, Jaspreet Singh Marwah, Srilakshmi Kalathil, Navjot Singh, Rudraksh Tuwani, [Ganesh Bagler](https://cosylab.iiitd.edu.in/)* [[PDF](https://doi.org/10.1093/database/baaa077)], 2020, 2020.
 
 9. **RecipeGPT: Generative Pre-training Based Cooking Recipe Generation and Evaluation System.** `WWW`
 
@@ -440,7 +440,7 @@
 
 10. **RecipeNLG: A Cooking Recipes Dataset for Semi-Structured Text Generation.** `INLG`
 
-    *Michal Bien, Michal Gilski, Martyna Maciejewska, Wojciech Taisner, Dawid Wisniewski, Agnieszka Lawrynowicz* [[PDF](https://doi.org/10.18653/v1/2020.inlg-1.4)], 22-28, 2020.
+    *[Michal Bien](https://github.com/Glorf), Michal Gilski, Martyna Maciejewska, Wojciech Taisner, Dawid Wisniewski, Agnieszka Lawrynowicz* [[PDF](https://doi.org/10.18653/v1/2020.inlg-1.4)], 22-28, 2020.
 
 11. **Routing Enforced Generative Model for Recipe Generation.** `EMNLP`
 
@@ -448,6 +448,7 @@
 
 12. **Structure-Aware Generation Network for Recipe Generation from Images.** `ECCV`
 
-    *Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao* [[PDF](https://arxiv.org/pdf/2009.00944)], 359-374, 2020.
+    *[Hao Wang](https://github.com/hwang1996), [Guosheng Lin](https://guosheng.github.io/), Steven C. H. Hoi, Chunyan Miao* [[PDF](https://arxiv.org/pdf/2009.00944)], 359-374, 2020.
+
 
 
